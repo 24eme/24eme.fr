@@ -8,6 +8,13 @@ titre: Lexique
 #### Termes
 
 * **DRM** : **D**éclaration **r**écapitulative **m**ensuelle
+* **DS** : 
+* **DAIDS** :
+* **DREV** :
+* **SV12** :
+* **SV11** :
+* **CRD** :
+* **DAE** :
 * **DV** :
 * **EDI** :
 * **ODG** :
@@ -20,3 +27,4 @@ titre: Lexique
 * **BIVC** :
 * **CIVA** :
 * **AVA** : **A**ssociatoion des **V**ins d'**A**lsace
+* **CNIV** :
