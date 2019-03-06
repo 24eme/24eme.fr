@@ -11,9 +11,10 @@
             </div>
         </header>
 
-        <section id="page" style="background-color: #fff">
+        <section id="page" style="background-color: #fff" class="bloc-editable">
             <div class="container">
-            {{ content }}
+                <a href="https://github.com/24eme/24eme.fr/blob/master/{{ page.path }}" class="lien-edition"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                {{ content }}
             </div>
         </section>
 
