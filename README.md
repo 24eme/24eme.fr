@@ -17,7 +17,7 @@ Le site utilise le thème [Agency bootstrap theme](https://github.com/BlackrockD
 # Installation de Jekyll
 
 gem install bundler jekyll
-bunde install
+bundle install
 
 # Récupération des sources
 
