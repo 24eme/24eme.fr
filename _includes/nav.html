@@ -19,19 +19,19 @@
                     <a href="{{ "/" | prepend: site.baseurl }}">Accueil</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ "#activite" }}">Activité</a>
+                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#activite" }}">Activité</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ "#clients" }}">Clients</a>
+                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#clients" }}">Clients</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ "#realisations" }}">Réalisations</a>
+                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#realisations" }}">Réalisations</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ "#equipe" }}">L'équipe</a>
+                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#equipe" }}">L'équipe</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{{ "#contact" }}">Contact</a>
+                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#contact" }}">Contact</a>
                 </li>
             </ul>
         </div>
