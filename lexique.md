@@ -7,11 +7,17 @@ titre: Lexique
 
 #### Termes
 
-* **DRM** : **D**éclaration **r**écapitulative **m**ensuelle (wikipedia)(https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle)
+**D**éclaration **r**écapitulative **m**ensuelle [wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle)
+* **DS** :
+* **DAIDS** :
+* **DREV** :
+* **SV12** :
+* **SV11** :
+* **CRD** :
+* **DAE** :
 * **DV** :
 * **EDI** :
-* **ODG** : **O**rganisme de **d**éfense et de **g**estion [wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion), dans le cadre des projets vins il s'agit de Syndicats Viticoles
-
+* **ODG** : **O**rganisme de **d**éfense et de **g**estion [wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 
 #### Régions
 
@@ -20,3 +26,4 @@ titre: Lexique
 * **BIVC** :
 * **CIVA** :
 * **AVA** : **A**ssociatoion des **V**ins d'**A**lsace
+* **CNIV** :
