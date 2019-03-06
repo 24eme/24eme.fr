@@ -7,7 +7,7 @@ titre: Lexique
 
 #### Termes
 
-**D**éclaration **r**écapitulative **m**ensuelle ([wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle))
+* **DRM** : **D**éclaration **R**écapitulative **M**ensuelle ([wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle))
 * **DS** :
 * **DAIDS** :
 * **DREV** :
@@ -17,7 +17,7 @@ titre: Lexique
 * **DAE** :
 * **DV** :
 * **EDI** :
-* **ODG** : **O**rganisme de **d**éfense et de **g**estion ([wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
+* **ODG** : **O**rganisme de **D**éfense et de **G**estion ([wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 
 #### Régions
 
