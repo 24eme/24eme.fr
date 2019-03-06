@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html>
     {% include head.html %}
-    <body>
+    <body class="bg-light-gray">
         {% include nav.html %}
         <header>
             <div class="container">
-                <a href="https://github.com/24eme/24eme.fr/blob/master/_includes/header.html" class="lien-edition lien-edition-bottom"><i class="fa fa-pencil" aria-hidden="true"></i></a>
-                <div class="intro-text" style="padding-top: 200px; padding-bottom: 100px;">
-                    <div class="intro-heading">{{ page.titre }}</div>
+                <div class="intro-text" style="padding-top: 160px; padding-bottom: 20px;">
+                    <div class="intro-heading" style="font-size: 45px;">{{ page.titre }}</div>
                 </div>
             </div>
         </header>
 
-        <section id="page" style="padding: 75px 0;">
+        <section id="page" style="background-color: #fff">
             <div class="container">
             {{ content }}
             </div>
