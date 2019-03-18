@@ -18,6 +18,8 @@ titre: Lexique
 * **DV** :
 * **EDI** :
 * **ODG** : **O**rganisme de **D**éfense et de **G**estion ([wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
+* **CVI** :
+* **Parcellaire** :
 
 #### Régions
 
