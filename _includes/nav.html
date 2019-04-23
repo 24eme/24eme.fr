@@ -9,29 +9,29 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="{{ "/" | prepend: site.baseurl }}"><img src="{{ "/img/24eme.svg" | prepend: site.baseurl }}" /></a>
+            <a class="navbar-brand page-scroll" href="{{ "/" }}"><img src="{{ "/img/24eme.svg" }}" /></a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li class="hidden">
-                    <a href="{{ "/" | prepend: site.baseurl }}">Accueil</a>
+                    <a href="{{ "/" }}">Accueil</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#activite" }}">Activité</a>
+                    <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#activite" }}">Activité</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#clients" }}">Clients</a>
+                    <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#clients" }}">Clients</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#realisations" }}">Réalisations</a>
+                    <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#realisations" }}">Réalisations</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#equipe" }}">L'équipe</a>
+                    <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#equipe" }}">L'équipe</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="{% if page.url != "/" | prepend: site.baseurl %}/{% endif %}{{ "#contact" }}">Contact</a>
+                    <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#contact" }}">Contact</a>
                 </li>
             </ul>
         </div>
