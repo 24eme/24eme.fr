@@ -25,7 +25,7 @@ titre: Lexique
 
 * **IVSO** : **I**nterprofession des **V**ins du **S**ud **O**uest
 * **IVBD** : **I**nterprofession des **V**ins de **B**ergerac et **D**uras
-* **BIVC** :
+* **BIVC** : **B**ureau **I**nterprofessionnel des **V**ins du **C**entre  ([site](http://www.vins-centre-loire.com))
 * **CIVA** :
 * **AVA** : **A**ssociatoion des **V**ins d'**A**lsace
 * **CNIV** :
