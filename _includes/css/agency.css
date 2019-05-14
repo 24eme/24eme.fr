@@ -305,6 +305,13 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+
+@media(max-width:767px) {
+    .navbar-default .dropdown .dropdown-menu {
+        display: block;
+    }
+}
+
 .navbar-default .navbar-nav > .dropdown.open > a.dropdown-toggle {
     background-color: transparent;
     color: #{{ site.data.template.color.primary }};
