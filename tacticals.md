@@ -7,4 +7,4 @@ Tous les mois, nous nous réunissons pour une réunion hors les murs afin de fai
 
 La carte suivante présente les lieux que nous avons déjà visité lors de ces réunions :
 
-<iframe width="100%" height="900px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/tacticals-du-24eme_326151?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#13/48.8730/2.3046"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/tacticals-du-24eme_326151">Voir en plein écran</a></p>
+<iframe width="100%" height="900px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/fr/map/tacticals-du-24eme_326151?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=null&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#13/48.8730/2.3046"></iframe><p><a href="https://umap.openstreetmap.fr/fr/map/tacticals-du-24eme_326151#13/48.8741/2.3190">Voir en plein écran</a></p>
