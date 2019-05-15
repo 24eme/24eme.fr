@@ -21,11 +21,11 @@ title: Lexique
 * **CVI** :
 * **Parcellaire** :
 
-#### Régions
+#### Organismes
 
 * **IVSO** : **I**nterprofession des **V**ins du **S**ud **O**uest
 * **IVBD** : **I**nterprofession des **V**ins de **B**ergerac et **D**uras
 * **BIVC** : **B**ureau **I**nterprofessionnel des **V**ins du **C**entre  ([site](http://www.vins-centre-loire.com))
-* **CIVA** :
+* **CIVA** : **C**onseil **I**nterprofessionnel des **V**ins d'**A**lsace ([wikipedia](https://fr.wikipedia.org/wiki/Conseil_Interprofessionnel_des_Vins_d%27Alsace))
 * **AVA** : **A**ssociatoion des **V**ins d'**A**lsace
-* **CNIV** :
+* **CNIV** : **C**omité **N**ational des **I**nterprofessions des **V**ins à appellation d'origine et à indication géographique ([site](https://www.intervin.fr/))
