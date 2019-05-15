@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-titre: Lexique
+title: Lexique
 ---
 
 ## Lexique lié à l'activité du vin

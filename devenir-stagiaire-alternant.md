@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-titre: Devenir stagiaire ou alternant-e
+title: Devenir stagiaire ou alternant-e
 ---
 
 ## Stage / Alternance developpement web

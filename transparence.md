@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-titre: Transparence
+title: Transparence
 ---
 
 ## Documents administratifs et transparence

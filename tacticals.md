@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-titre: Les lieux de nos tacticals
+title: Les lieux de nos tacticals
 ---
 
 ## Qu'est ce qu'un *tactical* ?
