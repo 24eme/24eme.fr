@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-titre: Les voeux
+title: Les voeux
 ---
 
 ## 2019
