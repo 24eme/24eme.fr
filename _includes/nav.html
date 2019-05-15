@@ -33,6 +33,14 @@
                 <li>
                     <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#contact" }}">Contact</a>
                 </li>
+                <li class="dropdown {% if page.url contains "transparence" or page.url contains "tacticals" or page.url contains "lexique" %}active{% endif %}">
+                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="hidden-sm">Au 24ème</span> <span class="caret"></span></a>
+                     <ul class="dropdown-menu">
+                       <li class="{% if page.url == "/transparence/" %}active{% endif %}"><a href="/transparence">Transparence</a></li>
+                       <li class="{% if page.url == "/tacticals/" %}active{% endif %}"><a href="/tacticals">Lieux des tacticals</a></li>
+                       <li class="{% if page.url == "/lexique/" %}active{% endif %}"><a href="/lexique">Lexique</a></li>
+                     </ul>
+               </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->

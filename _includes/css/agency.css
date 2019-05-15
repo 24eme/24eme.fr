@@ -305,6 +305,29 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+
+@media(max-width:767px) {
+    .navbar-default .dropdown .dropdown-menu {
+        display: block;
+    }
+}
+
+.navbar-default .navbar-nav > .dropdown.open > a.dropdown-toggle {
+    background-color: transparent;
+    color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-default .navbar-nav > .dropdown > a.dropdown-toggle:hover,
+.navbar-default .navbar-nav > .dropdown > a.dropdown-toggle:focus,
+.navbar-default .navbar-nav > .dropdown.active > a.dropdown-toggle  {
+    background-color: transparent;
+    color: #{{ site.data.template.color.primary }};
+}
+
+.navbar-default .dropdown .dropdown-menu {
+    background-color: #222;
+}
+
 header {
     text-align: center;
     color: #fff;
