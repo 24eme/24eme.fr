@@ -10,16 +10,17 @@ title: Lexique
 * **DRM** : Déclaration Récapitulative Mensuelle ([wikipedia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle))
 * **DS** :
 * **DAIDS** :
-* **DREV** :
+* **DREV** : Déclaration de revendication
 * **SV12** :
 * **SV11** :
-* **CRD** :
+* **CRD** : Capsule Représentative de Droit, capsule qui indique que les droits de consommations sur l'alcool ont été acquittés auprès de la Direction générale des douanes et droits indirects (DGDDI). ([wikipedia](https://fr.wikipedia.org/wiki/Capsule_CRD))
 * **DAE** :
 * **DV** :
 * **EDI** :
 * **ODG** : Organisme de Défense et de Gestion ([wikipedia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 * **CVI** :
-* **Parcellaire** :
+* **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
+* **DI** : Déclaration d'identification
 
 #### Organismes
 
