@@ -5,9 +5,10 @@ title: Transparence
 
 ## Documents administratifs et transparence
 
-Afin d'offrir de la transparence sur l'activité du 24ème, nous mettons à  disposition ces documents :
+Afin d'offrir de la transparence sur l'activité du 24ème, nous mettons à disposition ces documents :
 
 * [Les statuts](https://jeancloude.24eme.fr/index.php/s/uyUWqY3F5oywdkj)
+* [Le Kbis](https://jeancloude.24eme.fr/index.php/s/GcRQbm7Rj6zACCY)
 * [L'accord de participation](https://jeancloude.24eme.fr/index.php/s/cgoTwoBdmaDsrt0)
 * [Les assemblées générales](https://jeancloude.24eme.fr/index.php/s/BirbLYRQUuwKmcs)
 * [Les comptes annuels](https://jeancloude.24eme.fr/index.php/s/5TOAZycfOKIonLL)
