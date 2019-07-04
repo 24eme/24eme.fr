@@ -53,6 +53,13 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/tanguimorlier/
 
+- name: Gabriel POMA
+  pic: devenircoop
+  position: Coopérateur
+  social:
+    - title: github
+      url: https://github.com/gpoma
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
