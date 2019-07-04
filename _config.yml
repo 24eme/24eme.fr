@@ -73,8 +73,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 12 avenue de l'Amiral Mouchez
-  - line: 75014 Paris
+  - line: 2 place Sainte-Opportune
+  - line: 75001 Paris
 
 # Build settings
 markdown: kramdown
