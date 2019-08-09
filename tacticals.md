@@ -15,4 +15,4 @@ La carte suivante présente les lieux que nous avons déjà visités lors de ces
 
 ## Des idées pour de futurs lieux
 
-Nous sommes toujours à la recherche de nouveaux lieux, qui peuvent être suggérer dans ce pad : [https://annuel.framapad.org/p/nPLRkYCMew](https://annuel.framapad.org/p/nPLRkYCMew)
+Nous sommes toujours à la recherche de nouveaux lieux, qui peuvent être suggérées dans ce pad : [https://annuel.framapad.org/p/nPLRkYCMew](https://annuel.framapad.org/p/nPLRkYCMew)
