@@ -60,6 +60,17 @@ people:
     - title: github
       url: https://github.com/gpoma
 
+- name: Moussa ADJI
+  pic: 6
+  position: Alternant (développeur fullstack)
+  social:
+    - title: github
+      url: https://github.com/2maj
+    - title: linkedin
+      url: https://fr.linkedin.com/in/moussa-adji-mahamat
+    - title: instagram
+      url: https://www.instagram.com/mht_adji/?hl=fr-ca
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
