@@ -22,6 +22,7 @@ title: Lexique
 * **CVO** : Contribution volontaire obligatoire ([wikipedia](https://fr.wikipedia.org/wiki/Contribution_volontaire_obligatoire))
 * **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
 * **DI** : Déclaration d'identification
+* **VCI** : Volume Complémentaire Individuel
 
 #### Organismes
 
