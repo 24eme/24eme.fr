@@ -7,7 +7,7 @@ title: Club Auto Gestion
 
 ## Organiser le travail collectif de manière plus horizontale
 
-En discutant au 4ème Provence, nous nous sommes rendus compte que nous animions des formations très complémentaires et qu'il serait intéressant de partager nos pratiques en terme de facilitation et d'auto-gestion. Le 24ème ayant l'intention de continuer à se former à ces pratiques, nous proposons d'organiser un échange de formations et d'en faire profiter les membres de la Pépite. Nous nous proposons d'animer les deux premières, la suite se construira avec vous !! :)
+En discutant au 4ème Provence, nous nous sommes rendus compte que nous animions des formations très complémentaires et qu'il serait intéressant de partager nos pratiques en terme de facilitation et d'auto-gestion. Le 24ème ayant l'intention de continuer à se former à ces pratiques, nous avons décidé d'organiser un échange de formations et d'en faire profiter les membres de la Pépite. Nous nous proposons d'animer les deux premières, la suite se construira avec vous !! :)
 
 Juliette ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/)) et Tangui ([24ème](https://24eme.fr/))
 
