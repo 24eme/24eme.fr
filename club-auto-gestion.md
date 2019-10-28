@@ -7,13 +7,13 @@ title: Club Auto Gestion
 
 ## Organiser le travail collectif de manière plus horizontale
 
-En discutant au 4ème, nous nous sommes rendus compte qu'il serait intéressant de partager nos pratiques en terme de facilitation et d'auto-gestion. Le 24ème ayant l'intention de se former à ces pratiques, nous nous sommes dit que nous pourrions en faire profiter les membres de la Pépite. L'idée d'ateliers de formation sur nos différentes pratiques a donc germé. Nous vous proposons d'animer les deux premiers, la suite se construira avec vous !! :)
+En discutant au 4ème Provence, nous nous sommes rendus compte que nous animions des formations très complémentaires et qu'il serait intéressant de partager nos pratiques en terme de facilitation et d'auto-gestion. Le 24ème ayant l'intention de continuer à se former à ces pratiques, nous proposons d'organiser un échange de formations et d'en faire profiter les membres de la Pépite. Nous nous proposons d'animer les deux premières, la suite se construira avec vous !! :)
 
 Juliette ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/)) et Tangui ([24ème](https://24eme.fr/))
 
 ### Atelier 1 : Initiation aux outils agiles : développer des intuitions vers l'auto-gestion au sein d'une équipe
 
-Au travers des expériences ludiques, nous vous proposons de découvrir les principaux concepts de l'agilité afin de faciliter votre travail en équipe et de tendre vers plus d'horizontalité au sein de votre équipe de travail ou le temps d'un projet !
+Au travers des expériences ludiques, nous vous proposons de découvrir les principaux concepts de l'agilité afin de faciliter votre travail en équipe et de tendre vers plus d'horizontalité au sein de votre équipe de travail ou le temps d'un projet.
 
 Durée : 2h30 - animation Tangui Morlier ([24ème](https://24eme.fr/))
 
