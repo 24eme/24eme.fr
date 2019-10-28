@@ -41,5 +41,4 @@ Les dates des 2 ateliers seront arrêtées le 4 novembre à midi sur la base not
 
 N'hésite pas à t'inscrire au canal [#club-auto-gestion](https://laffitte.plateau-urbain.com/channel/club-auto-gestion) sur rocketchat, à nous contacter par [mail](mailto:julietteridereau@gmail.com;tangui@tangui.eu.org?subject=club-auto-gestion) ou directement venir nous voir au 4ème étage Provence.
 
-
-
+Les documents et productions du club sont disponibles sous licence libre (cc by-sa) depuis ce [répertoire partagé](https://jeancloude.24eme.fr/index.php/s/DJTpa28ro9YiEfm)
