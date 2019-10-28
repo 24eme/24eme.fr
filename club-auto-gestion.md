@@ -3,9 +3,9 @@ layout: defaultPage
 title: Club Auto Gestion
 ---
 
-# Auto-gestion, facilitation 
+# Auto-gestion, facilitation :
 
-## comment peut-on organiser le travail collectif avec plus d'horizontalité ?
+## Organiser le travail collectif de manière plus horizontale
 
 En discutant au 4ème, nous nous sommes rendus compte qu'il serait intéressant de partager nos pratiques en terme de facilitation et d'auto-gestion. Le 24ème ayant l'intention de se former à ces pratiques, nous nous sommes dit que nous pourrions en faire profiter les membres de la Pépite. L'idée d'ateliers de formation sur nos différentes pratiques a donc germé. Nous vous proposons d'animer les deux premiers, la suite se construira avec vous !! :)
 
@@ -35,7 +35,7 @@ Organisations libérées/opales, assertivité, coopérative, facilitation, outil
 
 Indiquez vos disponibilités sur ce framadate : [https://framadate.org/AK8H5oelqZpyEdyn](https://framadate.org/AK8H5oelqZpyEdyn)
 
-Les dates des 2 ateliers seront arrêtées le 4 novembre à midi sur la base notamment du résultat du sondage.
+Les dates des 2 ateliers seront arrêtées le 4 novembre à midi sur la base notamment du résultat du [sondage](https://framadate.org/AK8H5oelqZpyEdyn).
 
 ### Pour infos ou questions
 
