@@ -11,21 +11,21 @@ En discutant au 4ème Provence, nous nous sommes rendus compte que nous animions
 
 Juliette ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/)) et Tangui ([24ème](https://24eme.fr/))
 
-### Atelier 1 : Initiation aux outils agiles : développer des intuitions vers l'auto-gestion au sein d'une équipe
+### Atelier 1 - Initiation aux outils agiles : développer des intuitions vers l'auto-gestion au sein d'une équipe
 
 Au travers des expériences ludiques, nous vous proposons de découvrir les principaux concepts de l'agilité afin de faciliter votre travail en équipe et de tendre vers plus d'horizontalité au sein de votre équipe de travail ou le temps d'un projet.
 
 Durée : 2h30 - animation Tangui Morlier ([24ème](https://24eme.fr/))
 
-Date : en novembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
+Date : en fin de journée de novembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
 
-### Atelier 2 : Communication bienveillante (CNV...) au sein d'une équipe
+### Atelier 2 - Communication bienveillante (CNV...) au sein d'une équipe
 
 Que vous connaissiez ou non la "girafe" ou le "chacal" de Marshall Rosenberg, nous vous proposons un atelier dédié à la Communication Non Violente et ses "dérivées" afin d'imaginer des relations et résolutions de tensions plus apaisées. Venez clarifier ce qui se passe en vous,  apprendre à vous affirmer avec respect, exprimer vos besoins, expérimenter le processus OSBD et bien d'autres encore !
 
 Durée : 2h30 - animation Juliette Ridereau ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/))
 
-Date : en décembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
+Date : en fin de journée de décembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
 
 ### D'autres formations ou ateliers ?
 
