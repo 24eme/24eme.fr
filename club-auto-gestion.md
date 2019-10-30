@@ -11,7 +11,7 @@ En discutant au 4ème Provence, nous nous sommes rendus compte que nous animions
 
 Juliette ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/)) et Tangui ([24ème](https://24eme.fr/))
 
-### Atelier 1 - Initiation aux outils agiles : développer des intuitions vers l'auto-gestion au sein d'une équipe
+### Atelier 1 - Initiation aux outils agiles : développer des intuitions d'auto-gestion au sein d'une équipe
 
 Au travers des expériences ludiques, nous vous proposons de découvrir les principaux concepts de l'agilité afin de faciliter votre travail en équipe et de tendre vers plus d'horizontalité au sein de votre équipe de travail ou le temps d'un projet.
 
