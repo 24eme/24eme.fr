@@ -23,6 +23,8 @@ title: Lexique
 * **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
 * **DI** : Déclaration d'identification
 * **VCI** : Volume Complémentaire Individuel
+* **VT** : Vendange Tardive
+* **SGN** : Sélection de Grains Nobles
 
 #### Organismes
 
