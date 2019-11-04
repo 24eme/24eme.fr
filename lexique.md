@@ -18,7 +18,7 @@ title: Lexique
 * **DV** :
 * **EDI** :
 * **ODG** : Organisme de Défense et de Gestion ([wikipédia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
-* **CVI** : Casier Viticole Informatisé
+* **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9))
 * **CVO** : Contribution volontaire obligatoire ([wikipédia](https://fr.wikipedia.org/wiki/Contribution_volontaire_obligatoire))
 * **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
 * **DI** : Déclaration d'identification
