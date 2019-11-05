@@ -17,7 +17,7 @@ Au travers des expériences ludiques, nous vous proposons de découvrir les prin
 
 Durée : 2h30 - animation Tangui Morlier ([24ème](https://24eme.fr/))
 
-Date : en fin de journée de novembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
+Date : 20 novembre 2019 - 18h00 -> 20h30 ( [S'inscrire](https://framadate.org/AK8H5oelqZpyEdyn) )
 
 ### Atelier 2 - Communication bienveillante (CNV...) au sein d'une équipe
 
@@ -25,7 +25,7 @@ Que vous connaissiez ou non la "girafe" ou le "chacal" de Marshall Rosenberg, no
 
 Durée : 2h30 - animation Juliette Ridereau ([Mycorhize](https://associationmycorhize.wordpress.com/)/[Activ'Action](https://www.activaction.org/))
 
-Date : en fin de journée de décembre ( [voir/choisir les dates](https://framadate.org/AK8H5oelqZpyEdyn) )
+Date : 3 décembre 2019 - 18h00 -> 20h30 ( [S'inscrire](https://framadate.org/AK8H5oelqZpyEdyn) )
 
 ### D'autres formations ou ateliers ?
 
