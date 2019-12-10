@@ -8,15 +8,16 @@ title: Lexique
 #### Termes
 
 * **DRM** : Déclaration Récapitulative Mensuelle ([wikipédia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle))
-* **DS** :
-* **DAIDS** :
+* **DS** : Déclaration de stock (stock en cave en général au 31 juillet mais peut etre en début d'année pour les négociants)
+* **DAIDS** : Déclaration Annuel d'Inventaire / Déclaration de stock (la DAI contient les explications de différence de stock entre la DRM de juillet et le stock de la DS)
 * **DREV** : Déclaration de revendication
-* **SV12** :
-* **SV11** :
+* **SV12** : Déclaration de production des négociants (les apports en raisin et mout de leurs clients récoltants)
+* **SV11** : déclaration de production des caves coopératives (apport des coopérateurs à la cave)
+* **Chaptalisation** : Apport extérieur en sucre afin d'augmenter le degré d'alcool ([wikipedia](https://fr.wikipedia.org/wiki/Chaptalisation))
 * **CRD** : Capsule Représentative de Droit, capsule qui indique que les droits de consommations sur l'alcool ont été acquittés auprès de la Direction générale des douanes et droits indirects (DGDDI). ([wikipédia](https://fr.wikipedia.org/wiki/Capsule_CRD))
-* **DAE** :
+* **DAE** : Document d'Accompagnement Electronique (document qui autorise le transport du vin)
 * **DV** :
-* **EDI** :
+* **EDI** : Electronic Data Exchance (échange automatique de données)
 * **ODG** : Organisme de Défense et de Gestion ([wikipédia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 * **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9))
 * **CVO** : Contribution volontaire obligatoire ([wikipédia](https://fr.wikipedia.org/wiki/Contribution_volontaire_obligatoire))
