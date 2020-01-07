@@ -27,6 +27,12 @@ Durée : 2h30 - animation Juliette Ridereau ([Mycorhize](https://associationmyco
 
 Date : 3 décembre 2019 - 18h00 -> 20h30 ( [S'inscrire](https://framadate.org/AK8H5oelqZpyEdyn) )
 
+### Atelier 3 : Auto-gestion : les outils et les pratiques
+
+Autour de deux outils délibératifs (un « bocal » et une « rivière »), nous vous proposons de découvrir les outils propices à une organisation auto-gérées, témoigner de vos expériences dans votre structure et discuter de leurs pratiques actuelles ou souhaitées dans les organisations.
+
+Date : 21, 23, 28 ou 30 janvier - 18h00 -> 20h30 ( [S'inscrire](https://framadate.org/N8xUxrrAhAjX2rHG) )
+
 ### D'autres formations ou ateliers ?
 
 Organisations libérées/opales, assertivité, coopérative, facilitation, outils d'intelligence collective, prise de décisions par consentement, holacratie, sociocratie, ... Si vous avez des envies ou des compétences pour animer des sessions, contactez nous !
