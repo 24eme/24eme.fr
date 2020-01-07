@@ -26,6 +26,7 @@ title: Lexique
 * **VCI** : Volume Complémentaire Individuel ([wikipédia](https://fr.wikipedia.org/wiki/Rendement_viticole#Volume_compl%C3%A9mentaire_individuel))
 * **VT** : Vendange Tardive ([wikipédia](https://fr.wikipedia.org/wiki/Vendanges_tardives))
 * **SGN** : Sélection de Grains Nobles ([wikipédia](https://fr.wikipedia.org/wiki/S%C3%A9lection_de_grains_nobles))
+* **Contrat SPOT** : Contrat de vrac ou bouteilles dont le prix n'est pas défini au moment de sa signature mais dont le prix appliqué sera celui du marché au moment de la livraison de la marchandise.
 
 #### Organismes
 
