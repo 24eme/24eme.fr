@@ -5,7 +5,7 @@ title: Les voeux
 
 ## 2020
 
-<a href="/img/2020.png"><img src="/img/2020.png" width="350" height="250" alt="Bonne année 2020" style="border: 0px"/></a>
+<a href="/img/2020.jpg"><img src="/img/2020.jpg" width="350" height="250" alt="Bonne année 2020" style="border: 0px"/></a>
 
 [Source de la carte de voeux](https://github.com/24eme/voeux_2020_postits)
 
@@ -18,4 +18,3 @@ title: Les voeux
 ## 2018
 
 <a href="/img/2018.png"><img src="/img/2018.png" width="350" height="250" alt="Bonne année 2018" style="border: 0px"/></a>
-
