@@ -55,14 +55,14 @@ people:
 
 - name: Gabriel POMA
   pic: 5
-  position: Coopérateur
+  position: Associé
   social:
     - title: github
       url: https://github.com/gpoma
 
 - name: Moussa ADJI
   pic: 6
-  position: Alternant (développeur fullstack)
+  position: Associé Alternant (développeur fullstack)
   social:
     - title: github
       url: https://github.com/2maj
