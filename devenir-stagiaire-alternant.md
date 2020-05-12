@@ -3,9 +3,11 @@ layout: defaultPage
 title: Devenir stagiaire ou alternant-e
 ---
 
-## Stage / Alternance developpement web
+## ~~Stage~~ / Alternance developpement web
 
-Le 24ème recherche un-e stagiaire ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
+> :warning: La session de recrutement des **stages est close** pour l'année 2020.
+
+Le 24ème recherche ~~un-e stagiaire~~ ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
 
 En fonction de ses intérêts, le ou la condidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
 
