@@ -38,7 +38,7 @@ Une belle variété de logiciels métiers sont développés :
 
 ### Poste à pourvoir :
 
- - Lieu : Paris dans le 18ème
+ - Lieu : Paris dans le 9ème
  - Disponibilité : Dés maintenant
 
 ### Comment postuler :
