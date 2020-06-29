@@ -9,7 +9,7 @@ title: Devenir stagiaire ou alternant-e
 
 Le 24ème recherche un-e ~~stagiaire~~ ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
 
-En fonction de ses intérêts, le ou la condidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
+En fonction de ses intérêts, le ou la candidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
 
  - Développement d'applications métiers
  - Administration système de serveurs sous Linux
