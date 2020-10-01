@@ -15,6 +15,15 @@ $(function() {
     });
 });
 
+$(".container-shuffle").each(function () {
+    // Remove all divs within, store in $d
+    var $d = $(this).find(".bloc-shuffle").remove();
+    // Sort $d randomnly
+    $d.sort(function () { return Math.floor(Math.random() * $d.length); });
+    // Append divs within $d to .shuffledv again
+    $d.appendTo(this);
+});
+
 // Highlight the top nav as scrolling occurs
 $('body#page-top').scrollspy({
     target: '.navbar-fixed-top',
