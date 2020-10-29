@@ -71,6 +71,26 @@ people:
     - title: instagram
       url: https://www.instagram.com/mht_adji/?hl=fr-ca
 
+- name: Honorine Marie-Christy
+  pic: 7
+  position: Alternante (développeur fullstack)
+  social:
+    - title: github
+      url: https://github.com/Honorine-MC
+    - title: linkedin
+      url: https://fr.linkedin.com/in/honorine-marie-christy
+    - title: instagram
+      url: https://www.instagram.com/mht_adji/?hl=fr-ca
+
+- name: Mame-Diarra Ngom
+  pic: 8
+  position: Alternante (développeur fullstack)
+  social:
+    - title: github
+      url: https://github.com/Mngom-ai
+    - title: linkedin
+      url: https://fr.linkedin.com/in/mamediarrangom
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
