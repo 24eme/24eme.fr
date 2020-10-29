@@ -934,11 +934,15 @@ body {
     position: relative;
 }
 
-.lien-edition {
+.lien-edition, .lien-edition-left {
     position: absolute;
     right: 20px;
     top: 20px;
     opacity: 0.3;
+}
+
+.lien-edition-left {
+    left: 20px;
 }
 
 .lien-edition-bottom {

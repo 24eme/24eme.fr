@@ -15,14 +15,29 @@ $(function() {
     });
 });
 
-$(".container-shuffle").each(function () {
-    // Remove all divs within, store in $d
-    var $d = $(this).find(".bloc-shuffle").remove();
-    // Sort $d randomnly
-    $d.sort(function () { return Math.floor(Math.random() * $d.length); });
-    // Append divs within $d to .shuffledv again
-    $d.appendTo(this);
-});
+$.fn.shuffle = function() {
+
+    var allElems = this.get(),
+        getRandom = function(max) {
+            return Math.floor(Math.random() * max);
+        },
+        shuffled = $.map(allElems, function(){
+            var random = getRandom(allElems.length),
+                randEl = $(allElems[random]).clone(true)[0];
+            allElems.splice(random, 1);
+            return randEl;
+       });
+
+    this.each(function(i){
+        $(this).replaceWith($(shuffled[i]));
+    });
+
+    return $(shuffled);
+
+};
+
+$("#lien_shuffle_equipe").on('click', function() {$(".container-shuffle .bloc-shuffle").shuffle(); return false;});
+$(".container-shuffle .bloc-shuffle").shuffle();
 
 // Highlight the top nav as scrolling occurs
 $('body#page-top').scrollspy({
