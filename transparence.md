@@ -15,6 +15,7 @@ Afin d'offrir de la transparence sur l'activité du 24ème, nous mettons à disp
 * [Les révisions coopératives](https://jeancloude.24eme.fr/index.php/s/Ydnwe4WQG3kXwjr)
 * [Liste ministérielle](https://jeancloude.24eme.fr/index.php/s/krKq8sMtdoPzpZ4)
 * [L'activité bancaire](https://github.com/24eme/banque/blob/master/data/history.csv)
+* [Les coordonnées administratives](https://github.com/24eme/administratif/blob/master/README.md#coordonn%C3%A9es-administratives)
 
 La liste des associés salariés de la société  :
 
