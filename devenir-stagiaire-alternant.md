@@ -5,7 +5,7 @@ title: Devenir stagiaire ou alternant-e
 
 ## ~~Stage~~ / Alternance developpement web
 
-``` ⛔ La session de recrutement des stages est close pour l'année 2020.```
+``` ⛔ Les sessions de recrutement des stages et alternances sont closes pour l'année 2020.```
 
 Le 24ème recherche un-e ~~stagiaire~~ ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
 
