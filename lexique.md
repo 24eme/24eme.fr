@@ -10,6 +10,7 @@ title: Lexique
 * **DRM** : Déclaration Récapitulative Mensuelle ([wikipédia](https://fr.wikipedia.org/wiki/D%C3%A9claration_r%C3%A9capitulative_mensuelle))
 * **DS** : Déclaration de stock (stock en cave en général au 31 juillet mais peut etre en début d'année pour les négociants)
 * **DAIDS** : Déclaration Annuel d'Inventaire / Déclaration de stock (la DAI contient les explications de différence de stock entre la DRM de juillet et le stock de la DS)
+* **DPLC** : Dépassement du Plafond Limite de Classement (le volume correpondant au dépassement du rendement)
 * **DREV** : Déclaration de revendication
 * **SV12** : Déclaration de production des négociants (les apports en raisin et mout de leurs clients récoltants)
 * **SV11** : déclaration de production des caves coopératives (apport des coopérateurs à la cave)
