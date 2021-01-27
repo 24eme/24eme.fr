@@ -2,6 +2,11 @@
 layout: defaultPage
 title: Les voeux
 ---
+## 2021
+
+<a href="/2021/"><img src="/img/2021/MH-GMT-JMV-WEB.jpg" width="350" height="233" alt="Bonne année 2021" style="border: 0px"/></a>
+
+[Consulter la carte animée](/2021/)
 
 ## 2020
 
