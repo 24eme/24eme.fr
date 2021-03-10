@@ -33,6 +33,18 @@
                 <li>
                     <a class="page-scroll" href="{% if page.url != "/" %}/{% endif %}{{ "#contact" }}">Contact</a>
                 </li>
+                <li class="dropdown {% if page.url contains "openodg" %}active{% endif %}">
+                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="hidden-sm">Logiciels</span> <span class="caret"></span></a>
+                     <ul class="dropdown-menu">
+                         <li><a href="https://github.com/24eme/giilda/">Giilda <small>(Interprofessions Viticole)</small></a></li>
+                       <li><a href="https://github.com/24eme/openodg">OpenODG <small>(Syndicats et ODG Viticole)</small></a></li>
+                       <li><a href="https://github.com/ahjucaf/juricaf">Juricaf <small>(Moteur de recherche de Jurisprudence)</small></a></li>
+                       <li><a href="https://github.com/24eme/aurouze">Aurouze <small>(Entreprises de Sanitation)</small></a></li>
+                       <li><a href="https://github.com/24eme/plussansascenseur">Plus sans ascenseur <small>(Outils de signalement)</small></a></li>
+                       <li><a href="https://github.com/24eme/Commune-Mesure">Commune Mesure <small>(Impact des Tiers-lieux)</small></a></li>
+                       <li><a href="https://github.com/24eme/monactivite">Mon Activité <small>(Outils de reporting)</small></a></li>
+                     </ul>
+               </li>
                 <li class="dropdown {% if page.url contains "transparence" or page.url contains "tacticals" or page.url contains "lexique" or page.url contains "voeux" %}active{% endif %}">
                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="hidden-sm">Au 24ème</span> <span class="caret"></span></a>
                      <ul class="dropdown-menu">
