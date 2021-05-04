@@ -19,7 +19,7 @@ Logiciel de dématérialisation des activités d'un syndicat viticole (AOC, IGP)
 
 [Voir les sources](https://github.com/24eme/openodg/)
 
-## DeclarVins
+### DeclarVins
 
 Logiciel de dématérialisation informatique des activités des interprofessions viticoles des Vins AOC Côtes du Rhône et de la Vallée du Rhône, des Vins de Provence et des Vins du Sud-Est.
 
