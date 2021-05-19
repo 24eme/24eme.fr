@@ -7,9 +7,9 @@ title: Transparence
 
 Afin d'offrir de la transparence sur l'activité du 24ème, nous mettons à disposition ces documents :
 
-* [Les statuts](https://jeancloude.24eme.fr/index.php/s/7YpKMc4pg2nHoDL)
-* [Le Kbis](https://jeancloude.24eme.fr/index.php/s/4iKQ45rMQXDMFQ6)
-* [L'accord de participation](https://jeancloude.24eme.fr/index.php/s/cgoTwoBdmaDsrt0)
+* [Les statuts](https://jeancloude.24eme.fr/index.php/s/Fb9DkRC544GYr3n)
+* [Le Kbis](https://jeancloude.24eme.fr/index.php/s/8noZ9786rtTmBNP)
+* [L'accord de participation](https://jeancloude.24eme.fr/index.php/s/6awJfcf3BjpjgHT)
 * [Les assemblées générales](https://jeancloude.24eme.fr/index.php/s/BirbLYRQUuwKmcs)
 * [Les comptes annuels](https://jeancloude.24eme.fr/index.php/s/5TOAZycfOKIonLL)
 * [Les révisions coopératives](https://jeancloude.24eme.fr/index.php/s/Ydnwe4WQG3kXwjr)
