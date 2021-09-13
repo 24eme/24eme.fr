@@ -9,16 +9,6 @@ description: "Conception et développement de logiciels libres adaptés aux mét
 
 # Team names, titles and social links
 people:
-- name: Mathurin PETIT
-  pic: 1
-  position: Associé (Gérant)
-  social:
-    - title: github
-      url: https://github.com/mathurinpetit
-    - title: twitter
-      url: https://twitter.com/MathurinPetit
-    - title: linkedin
-      url: https://www.linkedin.com/in/mathurin-petit-69007a51/
 
 - name: Jean-Baptiste LE METAYER
   pic: 2
