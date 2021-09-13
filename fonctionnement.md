@@ -9,6 +9,8 @@ La volonté du 24ème étant l'autonomie, l'autogestion et le partage du pouvoir
 
 * [Liste des tâches administratives et comptables](https://github.com/24eme/administratif/blob/master/docs/todo_administratif_compta.md)
 * [Tactical meeting](/tacticals) 
+* [Vacances libres (à documenter)](/)
+* [Salaires libres (à documenter)](/)
 * [Entrée d'un nouveau salarié](https://github.com/24eme/administratif/blob/master/docs/nouveau_salarie.md)
 * [Sortie d'un salarié](https://github.com/24eme/administratif/blob/master/docs/depart_salarie.md)
 * [Voeux](/voeux)
