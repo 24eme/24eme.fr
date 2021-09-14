@@ -50,17 +50,6 @@ people:
     - title: github
       url: https://github.com/gpoma
 
-- name: Moussa ADJI
-  pic: 6
-  position: Associé Alternant (développeur fullstack)
-  social:
-    - title: github
-      url: https://github.com/2maj
-    - title: linkedin
-      url: https://fr.linkedin.com/in/moussa-adji-mahamat
-    - title: instagram
-      url: https://www.instagram.com/mht_adji/?hl=fr-ca
-
 - name: Honorine MARIE-CHRISTY
   pic: 7
   position: Alternante (développeuse fullstack)
@@ -72,6 +61,27 @@ people:
     - title: instagram
       url: https://www.instagram.com/hononi1/?hl=fr-ca
 
+people_anciens:
+- name: Mathurin PETIT
+  pic: 1
+  position: Associé
+  social:
+    - title: github
+      url: https://github.com/mathurinpetit
+    - title: twitter
+      url: https://twitter.com/MathurinPetit
+    - title: linkedin
+      url: https://www.linkedin.com/in/mathurin-petit-69007a51/
+- name: Moussa ADJI
+  pic: 6
+  position: Associé Alternant (développeur fullstack)
+  social:
+    - title: github
+      url: https://github.com/2maj
+    - title: linkedin
+      url: https://fr.linkedin.com/in/moussa-adji-mahamat
+    - title: instagram
+      url: https://www.instagram.com/mht_adji/?hl=fr-ca
 - name: Mame-Diarra NGOM
   pic: 8
   position: Alternante (développeuse fullstack)
