@@ -14,5 +14,6 @@ La volonté de fonctionnement du 24ème étant l'autonomie, l'autogestion et le 
 * [Liste des tâches administratives et comptables](https://github.com/24eme/administratif/blob/master/docs/todo_administratif_compta.md)
 * [Sortie d'un salarié](https://github.com/24eme/administratif/blob/master/docs/depart_salarie.md)
 * [Remboursement arrêt maladie](https://github.com/24eme/administratif/blob/master/docs/arret_maladie.md)
+* [Débuter un projet](https://github.com/24eme/administratif/blob/master/docs/debuter_un_projet.md)
 * [Voeux](/voeux)
 * [Lexique](/lexique)
