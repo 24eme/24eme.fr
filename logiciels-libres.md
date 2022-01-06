@@ -57,4 +57,10 @@ Utilisé au 24ème pour offrir de la visibilité aux clients sur l'activité que
 
 [Voir les sources](https://github.com/24eme/monactivite)
 
+### Signature de PDF
+
+Logiciel web libre permettant de signer un PDF : [https://pdf.24eme.fr](https://pdf.24eme.fr)
+
+[Voir les sources](https://github.com/24eme/signaturepdf)
+
 
