@@ -20,7 +20,7 @@ title: Lexique
 * **DV** :
 * **EDI** : Electronic Data Exchance (échange automatique de données)
 * **ODG** : Organisme de Défense et de Gestion ([wikipédia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
-* **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9))
+* **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9)) Le casier contient les différents documents viticoles (DR, SV11, SV12, parcellaire, ...). Le numéro CVI est l'identifiant des établissements qui récoltent ou vinifient du raisin.
 * **CVO** : Contribution volontaire obligatoire ([wikipédia](https://fr.wikipedia.org/wiki/Contribution_volontaire_obligatoire))
 * **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
 * **DI** : Déclaration d'identification
@@ -29,7 +29,12 @@ title: Lexique
 * **SGN** : Sélection de Grains Nobles ([wikipédia](https://fr.wikipedia.org/wiki/S%C3%A9lection_de_grains_nobles))
 * **VDN** : Vin doux naturel ([wikipedia](https://fr.wikipedia.org/wiki/Vin_doux_naturel))
 * **VDL** : Vin de liqueur ([wikipedia](https://fr.wikipedia.org/wiki/Vin_de_liqueur))
-* **Contrat SPOT** : Contrat de vrac ou bouteilles dont le prix n'est pas défini au moment de sa signature mais dont le prix appliqué sera celui du marché au moment de la livraison de la marchandise.
+* **Contrat SPOT** : Contrat de vrac ou bouteilles dont le prix n'est pas défini au moment de sa signature mais dont le prix appliqué sera celui du marché au moment de la livraison de la marchandise
+* **Gamma** : plateforme web de la douane qui permet de déclarer les DAE
+* **CIEL** : "Contributions Indirectes En Ligne", plateforme web et webservice de la douane qui permet de déclarer les DRM afin de leur permettre de collecter la taxes indirectes
+* **SEED** : Webservice d'interrogation des numeros d'accises
+* **Numéro d'accises** : Numéro permettant d'identifier les entreprositaires de vins
+* **EVV** : Etablissement Viti-Vinicole
 
 #### Organismes
 
