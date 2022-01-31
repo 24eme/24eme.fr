@@ -6,7 +6,7 @@ title: Les voeux
 
 <a href="https://voeux.24eme.fr/2022/"><img src="/img/2022_affiche_brigitte.png" height="350" alt="Bonne année 2021" style="border: 0px"/><img src="/img/2022_affiche_patrick.png" height="350" alt="Bonne année 2022" style="border: 0px"/></a>
 
-[Consulter l'interface de création des affiches](https://voeux.24eme.fr/2022/)
+[Consulter l'interface de création des affiches](https://voeux.24eme.fr/2022/) ([code source](https://github.com/24eme/voeux2022))
 
 ## 2021
 
