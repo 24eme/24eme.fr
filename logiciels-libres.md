@@ -5,7 +5,7 @@ title: Logiciels libres
 
 ## Logiciels libres
 
-Tous le code que nous produisons et tous les logiciels que nous développons sont sous [licence libre](https://fr.wikipedia.org/wiki/Licence_libre) [AGPLV3](https://www.gnu.org/licenses/agpl-3.0.fr.html).
+Tout le code que nous produisons et tous les logiciels que nous développons sont sous [licence libre](https://fr.wikipedia.org/wiki/Licence_libre) [AGPLV3](https://www.gnu.org/licenses/agpl-3.0.fr.html).
 
 ### GIILDA
 
