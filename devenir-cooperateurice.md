@@ -73,5 +73,5 @@ Outre l'aspect technique, nos serveurs sont administrés avec Ansible, et sont s
 
 ## Comment postuler :
 
- - Par mail : [devenircooperateurice](mailto:devenircooperateurice@24eme.fr)
+ - Par mail : [devenircooperateuric@24eme.fr](mailto:devenircooperateurice@24eme.fr)
  - Par github : en proposant ton ajout dans notre équipe via un pull request :  [L'équipe](https://github.com/24eme/24eme.fr/blob/master/_config.yml#L11)
