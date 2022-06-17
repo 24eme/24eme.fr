@@ -1,6 +1,6 @@
 ---
 layout: defaultPage
-title: Devenir coopérateur
+title: Devenir coopérateur⋅ice
 ---
 
 ## À propos du 24ème
