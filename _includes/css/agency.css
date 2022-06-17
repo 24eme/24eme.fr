@@ -372,6 +372,17 @@ header#header-page .intro-text .intro-heading {
     font-size: 45px;
 }
 
+@media(max-width:767px) {
+    header#header-page .intro-text .intro-heading {
+        font-size: 32px;
+        overflow: hidden;
+    }
+
+    header#header-page .intro-text {
+        padding-top: 100px;
+    }
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -393,15 +404,6 @@ header#header-page .intro-text .intro-heading {
         font-size: 55px;
         font-weight: 700;
         line-height: 55px;
-    }
-
-    header#header-page .intro-text .intro-heading {
-        font-size: 32px;
-        overflow: hidden;
-    }
-
-    header#header-page .intro-text {
-        padding-top: 100px;
     }
 }
 
