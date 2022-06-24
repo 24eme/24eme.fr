@@ -3,6 +3,8 @@ layout: defaultPage
 title: Devenir coopérateur⋅ice
 ---
 
+# Développ⋅eur⋅euse web full-stack de logiciels libres
+
 ## À propos du 24ème
 
 Le 24ème est une société coopérative spécialisée dans le développement de logiciels libres et dans le conseil en matière d'Open Source.  
