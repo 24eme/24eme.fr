@@ -23,22 +23,9 @@ La philosophie du 24ème :
 
 Le 24ème recherche une développeuse ou un développeur **web full-stack** qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
 
-Le/la futur-e salarié-e aura la liberté de s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
-
- - Développement et maintenance de logiciels
- - Relation direct avec le client
- - Définition des besoins avec le client
- - Conseil et expertise technique
- - Administration système de serveurs sous Linux
- - Chiffrages
- - Formations techniques et veilles
- - Conférences et prises de paroles en public
- - Participation aux prises de décisions de l'entreprise
- - Facturations et tâches administratives
-
 Une belle variété de logiciels métiers sont développés :
 
- - Dématérialisation de documents administratifs pour le monde viticole (plusieurs dizaine de milliers de documents sont télédéclarés sur les  plateformes que nous développons tous les mois)
+ - Dématérialisation de documents administratifs pour le monde viticole (plusieurs dizaines de milliers de documents sont télédéclarés sur les  plateformes que nous développons tous les mois)
  - Gestion de la facturation (nos logiciels facturent plus de 35M€ par an)
  - Gestion des adhérents/clients type CRM
  - Gestion de planification et de tournées pour des techniciens sur mobile
@@ -48,21 +35,13 @@ Une belle variété de logiciels métiers sont développés :
  - Autodiagnostic et questionnaires
  - Outils internes
 
-### Technologies utilisées :
+Nous travaillons quotidiennement avec les compétences suivantes :
 
-Différentes stacks techniques sont utilisées en fonction des projets. On y retrouve :
-
+ - PHP
+ - Linux
  - Git
- - PHP (Symfony, Laravel, Fat Free Framework)
- - Base de données documentaire (CouchDB, MongoDB)
- - Base de données relationnelles (SQLite, MariaDB)
- - Shell
- - Python (Django, scrapy, beautifulSoup)
- - Javascript (VueJS, jQuery)
- - CSS (Bootstrap 3/5, Bulma CSS)
- - Tests unitaires
-
-Outre l'aspect technique, nos serveurs sont administrés avec Ansible, et sont sous Debian.
+ - Javascript
+ - HTML / CSS
 
 ## Poste à pourvoir :
 
