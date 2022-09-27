@@ -21,7 +21,7 @@ La philosophie du 24ème :
 
 ## Le poste
 
-Le 24ème recherche une développeuse ou un développeur **web full-stack** qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
+Le 24ème recherche une développeuse ou un développeur **web PHP** qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
 
 Une belle variété de logiciels métiers sont développés :
 
