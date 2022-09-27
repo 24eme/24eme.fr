@@ -3,7 +3,7 @@ layout: defaultPage
 title: Devenir coopérateur⋅ice
 ---
 
-# Développ⋅eur⋅euse web full-stack de logiciels libres
+# Développ⋅eur⋅euse PHP de logiciels libres
 
 ## À propos du 24ème
 
