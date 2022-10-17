@@ -35,6 +35,7 @@ title: Lexique
 * **SEED** : Webservice d'interrogation des numeros d'accises
 * **Numéro d'accises** : Numéro permettant d'identifier les entreprositaires de vins
 * **EVV** : Etablissement Viti-Vinicole
+* **IDU** : Identifiant unique de 14 caractères utilisé pour identifier une parcelle cadastrale. Le format est DDCCCPPPSSNNNN avec D le département, C le numéro INSEE de la commune (nombre), P le prefixe de la section (nombre), S la section (lettres), N le numéro de la parcelle (nombre). Au besoin les chaines sont complétées par des 0 pour atteindre la taille souhaitée.
 
 #### Organismes
 
