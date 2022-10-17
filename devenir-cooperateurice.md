@@ -3,7 +3,7 @@ layout: defaultPage
 title: Devenir coopérateur⋅ice
 ---
 
-## Développeuse / Développeur PHP de logiciels libres
+## Développeuse ou développeur PHP de logiciels libres
 
 ### À propos du 24ème
 
