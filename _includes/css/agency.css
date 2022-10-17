@@ -363,6 +363,26 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header#header-page .intro-text {
+    padding-top: 160px;
+    padding-bottom: 20px;
+}
+
+header#header-page .intro-text .intro-heading {
+    font-size: 45px;
+}
+
+@media(max-width:767px) {
+    header#header-page .intro-text .intro-heading {
+        font-size: 32px;
+        overflow: hidden;
+    }
+
+    header#header-page .intro-text {
+        padding-top: 100px;
+    }
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
