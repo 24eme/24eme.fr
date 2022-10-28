@@ -624,6 +624,326 @@
           48.873251
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-10-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-11-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-12-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Au bureau, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-03-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Dans l'amphithéatre, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-04-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Dans le bureau voisin vide, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-05-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Fenelon",
+        "description": "Merveilleux, merci Arnaud :)",
+        "adresse": "8 Place Saint-Michel, 75006 Paris",
+        "date": "2021-06-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343292,
+          48.853399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Grand Breguet",
+        "description": "Rien d'exceptionnel",
+        "adresse": "17 Rue Bréguet, 75011 Paris",
+        "date": "2021-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373381,
+          48.857508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Gabriel :)",
+        "description": "Studio simple mais efficace. La présence d'un chat serait un plus !",
+        "adresse": "88-90 Rue de Belleville, 75020 Paris",
+        "date": "2021-10-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385138,
+          48.873689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasserie Printemps",
+        "description": "Magnifique dôme en vitrail. L'ambiance est bonne.",
+        "adresse": "58/60 Bd Haussmann, 75009 Paris",
+        "date": "2021-11-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.329244,
+          48.873625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MESA de HOY",
+        "description": "Lieu assez jolie sous une belle verrière. Les saveurs des p'tis dej sont peu communes.",
+        "adresse": "68 Rue des Martyrs, 75009 Paris",
+        "date": "2021-12-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34014,
+          48.881153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Caserne",
+        "description": "Ancienne caserne de pompier, beau lieu dans lequel on mange sur du papier",
+        "adresse": "12 Rue Philippe de Girard, 75010 Paris",
+        "date": "2022-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362021,
+          48.881648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Arche de la Défense",
+        "description": "Belle salle de réunion dans les étages de la grande arche de la défense. Privilégiés !",
+        "adresse": "1 Parvis de la Défense, 92800 Puteaux",
+        "date": "2022-02-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241093,
+          48.891676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcella",
+        "description": "Belle auberge italienne avec un accueil chaleureux. Merci de votre participation les Marcopolettes",
+        "adresse": "1 Bd de Courcelles, 75008 Paris",
+        "date": "2022-03-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.311273,
+          48.873198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georges",
+        "description": "Au 6e étage du Centre Georges Pompidou, on bénéficie d'une belle vue sur Paris. Le personnel n'est pas toujours agréable et le lieu manque d'entretien",
+        "adresse": "Place Georges Pompidou, 75004 Paris",
+        "date": "2022-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351132,
+          48.860307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrasse Saint Catherine",
+        "description": "Place très parisienne, agréable lorsqu'il fait beau mais beaucoup d'attente",
+        "adresse": "7 Rue Caron, 75004 Paris",
+        "date": "2022-05-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362873,
+          48.855592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Sunset",
+        "description": "Le QG de Jules Joffrin. Equipe sympa et salle du fond agréable",
+        "adresse": "100, rue Ordener, 75018 Paris",
+        "date": "2022-06-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341715,
+          48.892994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOBA",
+        "description": "Grande terrasse en HO avec une belle vue sur le Parc Martin Luther King. Très ensoleillé, attention les jours de canicule",
+        "adresse": "44 Rue Bernard Buffet, 75017 Paris",
+        "date": "2022-07-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314352,
+          48.892184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A la folie",
+        "description": "Au cœur de La Villette, lieu sympa et agréable quand il fait beau avec sa grande terrasse. On y mange bien et copieusement",
+        "adresse": "26 Av. Corentin Cariou, 75019 Paris",
+        "date": "2022-09-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384348,
+          48.896117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmond, Terrass' Hotel",
+        "description": "Très bon restaurant avec un grand bar terrasse surplombant Paris et la tombe de Dalida",
+        "adresse": "12 Rue Joseph de Maistre, 75018 Paris",
+        "date": "2022-10-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333123,
+          48.886482
+        ]
+      }
     }
   ]
 }
