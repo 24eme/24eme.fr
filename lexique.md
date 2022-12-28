@@ -22,6 +22,7 @@ title: Lexique
 * **ODG** : Organisme de Défense et de Gestion ([wikipédia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 * **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9)) Le casier contient les différents documents viticoles (DR, SV11, SV12, parcellaire, ...). Le numéro CVI est l'identifiant des établissements qui récoltent ou vinifient du raisin.
 * **CVO** : Contribution volontaire obligatoire ([wikipédia](https://fr.wikipedia.org/wiki/Contribution_volontaire_obligatoire))
+* **DPAP** : Déclaration préalable d'affectation parcellaire
 * **Parcellaire** : Informations diverses (écart entre les pieds, cépage, type de vin, …) sur les parcelles de vigne d'un récoltant
 * **DI** : Déclaration d'identification
 * **VCI** : Volume Complémentaire Individuel ([wikipédia](https://fr.wikipedia.org/wiki/Rendement_viticole#Volume_compl%C3%A9mentaire_individuel))
