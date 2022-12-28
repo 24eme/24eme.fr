@@ -3,12 +3,13 @@ layout: defaultPage
 title: Devenir stagiaire ou alternant-e
 ---
 
-## Stage / Alternance developpement web
+## Alternance developpement web
 
-``` ⛔ Les sessions de recrutement d'alternances sont closes pour l'année 2021-2022.```  
-``` ⛔ Les sessions de recrutement de stage sont mises en suspens pour l'année 2021-2022.```
+``` ⛔ Les sessions de recrutement d'alternances sont closes.```  
 
-Le 24ème recherche un-e stagiaire ou alternant-e web qui pourra apprendre au sein de son équipe de développement.
+## Stage
+
+Le 24ème recherche un-e stagiaire web qui pourra apprendre au sein de son équipe de développement.
 
 En fonction de ses intérêts, le ou la candidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
 
@@ -42,7 +43,6 @@ Une belle variété de logiciels métiers sont développés :
 ### Poste à pourvoir :
 
  - Lieu : Paris dans le 9ème
- - Disponibilité : Dés maintenant
 
 ### Comment postuler :
 

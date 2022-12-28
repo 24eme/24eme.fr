@@ -12,7 +12,7 @@ people:
 
 - name: Jean-Baptiste LE METAYER
   pic: 2
-  position: Associé (Gérant)
+  position: Associé
   social:
     - title: github
       url: https://github.com/jblemetayer
@@ -23,7 +23,7 @@ people:
 
 - name: Vincent LAURENT
   pic: 3
-  position: Associé (Gérant)
+  position: Associé
   social:
     - title: github
       url: https://github.com/wincelau

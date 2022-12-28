@@ -1,0 +1,949 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafétéria des Arts et métier (Le KF des techniques)",
+        "adresse": "292 Rue Saint-Martin, 75003 Paris",
+        "date": "2016-05-17",
+        "description": "Terrasse calme, la cafétéria peut être bruyante "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35536,
+          48.86691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafétéria des Arts et métier (Le KF des techniques)",
+        "adresse": "292 Rue Saint-Martin, 75003 Paris",
+        "date": "2016-06-14",
+        "description": "Terrasse calme, la cafétéria peut être bruyante "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35536,
+          48.86691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café A",
+        "adresse": "148 rue du Faubourg Saint-Martin, 75010 Paris",
+        "date": "2016-08-15",
+        "description": "Super jardin/terrasse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36012,
+          48.87518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grands voisins",
+        "adresse": "74 Avenue Denfert-Rochereau, 75014 Paris",
+        "date": "2016-09-16",
+        "description": "Lieu original et sympa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335307,
+          48.837601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comptoir général",
+        "adresse": "84 Quai de Jemmapes, 75010 Paris",
+        "date": "2016-10-17",
+        "description": "sympa et original"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365698,
+          48.872515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Comptoir général",
+        "adresse": "84 Quai de Jemmapes, 75010 Paris",
+        "date": "2016-11-18",
+        "description": "sympa et original"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365698,
+          48.872515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hyatt Regency Paris Étoile",
+        "adresse": "3 place du Général Kœnig, 75017 Paris",
+        "date": "2016-12-15",
+        "description": "Vue incroyable sur l'ouest de Paris."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28391,
+          48.88022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jardin d'acclimatation",
+        "adresse": "Bois de Boulogne, Rte de la Prte Dauphine à la Prte des Sablons, 75116 Paris",
+        "date": "2017-01-06",
+        "description": "Cafés/cannettes en terrasse d'une guinguette lorsqu'il fait beau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.26469,
+          48.87813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Inno3",
+        "adresse": "137 Bd de Magenta, 75010 Paris",
+        "date": "2017-02-13",
+        "description": "Équipe trop sympa, les salles de réunion sont très bien décorées avec de beaux portraits"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351027,
+          48.881582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citroen Champs élysée",
+        "adresse": "42 Av. des Champs-Élysées, 75008 Paris",
+        "date": "2017-03-09",
+        "description": "Au -1, espace cafétéria avec cannettes et canapés. Agréable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29963,
+          48.87277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La grande mosquée",
+        "adresse": "2bis Pl. du Puits de l'Ermite, 75005 Paris",
+        "date": "2017-04-03",
+        "description": "Thés à la menthe et pâtisseries maghrébines dans un cadre unique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35542,
+          48.84172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ile st Louis",
+        "adresse": "Square Barye 75005 Paris",
+        "date": "2017-05-10",
+        "description": "Parfait pour prendre l'air. Faire un arrêt dans une épicerie pour prévoir de se désaltérer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3603,
+          48.84949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar à bulles",
+        "adresse": "4Bis Cité Véron, 75018 Paris",
+        "date": "2017-06-08",
+        "description": "super terrasse, n'ouvre qu'à 16h, mais ça vaut le cout"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33201,
+          48.8843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ground control (Gare de Lyon)",
+        "adresse": "81 Rue du Charolais, 75012 Paris",
+        "date": "2017-07-11",
+        "description": "sympa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.381259,
+          48.84361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citizen M La Défense",
+        "adresse": "194 Jardin de l'Arche, 92000 Nanterre",
+        "date": "2017-09-11",
+        "description": "Le bar de l'hôtel (au 1er étage) est grand et confortable. Le personnel est très sympa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.22997,
+          48.89395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KIEZ Kanal",
+        "adresse": "90 Quai de la Loire, 75019 Paris",
+        "date": "2017-10-05",
+        "description": "Calme et sympa, une belle alternative au pavillon des canaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37907,
+          48.88738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auberge Saint Christopher",
+        "adresse": "5 Rue de Dunkerque, 75010 Paris",
+        "date": "2017-11-09",
+        "description": "Grand, lumineux, avec un fumoir "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35807,
+          48.87931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block'Out",
+        "adresse": "50 Rue Ardoin, 93400 Saint-Ouen-sur-Seine",
+        "date": "2017-12-05",
+        "description": "Pratique avant une session d'escalade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.324668,
+          48.911391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Foucher Mère & Fille",
+        "adresse": "13 rue Madeleine Rebérioux, 75018 paris",
+        "date": "2018-01-09",
+        "description": "Plus tranquille après le service du midi. Ferme vers 17h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35308,
+          48.894664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FGO Barbara",
+        "adresse": "1 Rue Fleury, 75018 Paris",
+        "date": "2018-02-13",
+        "description": "Un petit speed dating musical ?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35403,
+          48.8845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Ibis",
+        "adresse": "5 Rue Caulaincourt, 75018 Paris",
+        "date": "2018-03-05",
+        "description": "le bar très ikéa est agréable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33005,
+          48.8851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Majestic Hotel",
+        "adresse": "30 Rue La Perouse, 75016 Paris",
+        "date": "2018-04-11",
+        "description": "Belle terrasse mais les responsables de l'hotel sont paranos et très désagréables. A éviter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.293881,
+          48.870413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La recyclerie",
+        "adresse": "83 Bd Ornano, 75018 Paris",
+        "date": "2018-05-03",
+        "description": "Très agréable lorsqu'il fait beau, sinon un peu bruyant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34404,
+          48.89763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citizen M gare de lyon",
+        "adresse": "8 Rue Van Gogh, 75012 Paris",
+        "date": "2018-06-07",
+        "description": "Agréable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.371817,
+          48.843709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KIEZ Biergarten",
+        "adresse": "24 Rue Vauvenargues, 75018 Paris",
+        "date": "2018-07-05",
+        "description": "Petite cours intérieure sympa lorsqu'il fait beau mais très rapidement blindée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33332,
+          48.89357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les petites gouttes",
+        "adresse": "12 Esplanade Nathalie Sarraute, 75018 Paris",
+        "date": "2018-08-02",
+        "description": "Attention aux guèpes sur les terrasses ;-)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362518,
+          48.88809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Institut suédois",
+        "adresse": "11 Rue Payenne, 75003 Paris",
+        "date": "2018-09-12",
+        "description": "Terrasse agréable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36229,
+          48.8581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasserie Jade",
+        "adresse": "193 Rue Belliard, 75018 Paris",
+        "date": "2018-10-12",
+        "description": "Belle alternative au Hasard Ludique (qui est fermé le lundi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.32856,
+          48.8955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bar commun",
+        "adresse": "135 Rue des Poissonniers, 75018 Paris",
+        "date": "2018-11-10",
+        "description": "Calme, le service super sympa. Une super asso. (fermé les lundi et mardi)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35281,
+          48.8952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le terminus Nord",
+        "adresse": "23, rue de Dunkerque 75010 Paris",
+        "date": "2018-12-19",
+        "description": "Chocolat chaud trop bon !!!!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35508,
+          48.879662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "QUIRKY",
+        "adresse": "35 Rue Gallieni, 92600 Asnières-sur-Seine",
+        "date": "2019-01-14",
+        "description": " Propriétaire vraiment pas aimable, lieu peu chaleureux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.286948,
+          48.908571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mob hotel",
+        "adresse": "6 Rue Gambetta, 93400 Saint-Ouen-sur-Seine",
+        "date": "2019-02-14",
+        "description": "Très confortable et agréable."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.335933,
+          48.905689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mon Coco",
+        "adresse": "6 place de la République, 75011 Paris",
+        "date": "2019-03-05",
+        "description": "Ambiance et déco très sympa, quel dommage que le serveur soit aussi désagréable"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.365615,
+          48.866659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Pavillon de la Reine",
+        "adresse": "28 Pl. des Vosges, 75003 Paris",
+        "date": "2019-04-08",
+        "description": "Service irréprochable, nappe en tissu même en terrasse, petit dej continental 29€"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.36608,
+          48.85638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hotel Amour",
+        "description": "Veranda et jardin fleuries et exotique",
+        "adresse": "8 rue de Navarin, 75009 Paris",
+        "date": "2020-03-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3394,
+          48.879611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Guitry",
+        "adresse": "10 Place Édouard VII, 75009 Paris",
+        "description": "On peut croiser Fred Testot et Gaël Musquet dans le restaurant d'à côté",
+        "date": "2020-06-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.329374,
+          48.871344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les Orgues",
+        "description": "À côté de Emmaüs défi, assiettes généreuses, déco sympa",
+        "adresse": "40 rue Riquet, 75019 Paris",
+        "date": "2020-07-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.372402,
+          48.889088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vertical Art",
+        "description": "Salle d'escalade avec un bar cozy et sympa",
+        "adresse": "6 boulevard de Clichy, Paris",
+        "date": "2020-08-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.339055,
+          48.882331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Créatures",
+        "description": "Le rooftop des galleries lafayette. Accueil assez glacial (on est dans un lieu élitiste) mais la suite du service est beaucoup plus sympa.",
+        "adresse": "15 Rue de la Chaussée d'Antin, 75009 Paris",
+        "date": "2020-09-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.332709,
+          48.873251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-10-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-11-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La pépite",
+        "description": "Covid oblige",
+        "adresse": "40 Rue Laffitte, 75009 Paris",
+        "date": "2020-12-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.338124,
+          48.874036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Au bureau, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-03-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Dans l'amphithéatre, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-04-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab - RIVP",
+        "description": "Dans le bureau voisin vide, covid oblige",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2021-05-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35423,
+          48.894069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Fenelon",
+        "description": "Merveilleux, merci Arnaud :)",
+        "adresse": "8 Place Saint-Michel, 75006 Paris",
+        "date": "2021-06-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.343292,
+          48.853399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Grand Breguet",
+        "description": "Rien d'exceptionnel",
+        "adresse": "17 Rue Bréguet, 75011 Paris",
+        "date": "2021-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.373381,
+          48.857508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Gabriel :)",
+        "description": "Studio simple mais efficace. La présence d'un chat serait un plus !",
+        "adresse": "88-90 Rue de Belleville, 75020 Paris",
+        "date": "2021-10-01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.385138,
+          48.873689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brasserie Printemps",
+        "description": "Magnifique dôme en vitrail. L'ambiance est bonne.",
+        "adresse": "58/60 Bd Haussmann, 75009 Paris",
+        "date": "2021-11-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.329244,
+          48.873625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MESA de HOY",
+        "description": "Lieu assez jolie sous une belle verrière. Les saveurs des p'tis dej sont peu communes.",
+        "adresse": "68 Rue des Martyrs, 75009 Paris",
+        "date": "2021-12-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.34014,
+          48.881153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "La Caserne",
+        "description": "Ancienne caserne de pompier, beau lieu dans lequel on mange sur du papier",
+        "adresse": "12 Rue Philippe de Girard, 75010 Paris",
+        "date": "2022-01-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362021,
+          48.881648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grande Arche de la Défense",
+        "description": "Belle salle de réunion dans les étages de la grande arche de la défense. Privilégiés !",
+        "adresse": "1 Parvis de la Défense, 92800 Puteaux",
+        "date": "2022-02-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.241093,
+          48.891676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcella",
+        "description": "Belle auberge italienne avec un accueil chaleureux. Merci de votre participation les Marcopolettes",
+        "adresse": "1 Bd de Courcelles, 75008 Paris",
+        "date": "2022-03-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.311273,
+          48.873198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Georges",
+        "description": "Au 6e étage du Centre Georges Pompidou, on bénéficie d'une belle vue sur Paris. Le personnel n'est pas toujours agréable et le lieu manque d'entretien",
+        "adresse": "Place Georges Pompidou, 75004 Paris",
+        "date": "2022-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.351132,
+          48.860307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Terrasse Saint Catherine",
+        "description": "Place très parisienne, agréable lorsqu'il fait beau mais beaucoup d'attente",
+        "adresse": "7 Rue Caron, 75004 Paris",
+        "date": "2022-05-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.362873,
+          48.855592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le Sunset",
+        "description": "Le QG de Jules Joffrin. Equipe sympa et salle du fond agréable",
+        "adresse": "100, rue Ordener, 75018 Paris",
+        "date": "2022-06-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.341715,
+          48.892994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HOBA",
+        "description": "Grande terrasse en HO avec une belle vue sur le Parc Martin Luther King. Très ensoleillé, attention les jours de canicule",
+        "adresse": "44 Rue Bernard Buffet, 75017 Paris",
+        "date": "2022-07-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.314352,
+          48.892184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A la folie",
+        "description": "Au cœur de La Villette, lieu sympa et agréable quand il fait beau avec sa grande terrasse. On y mange bien et copieusement",
+        "adresse": "26 Av. Corentin Cariou, 75019 Paris",
+        "date": "2022-09-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384348,
+          48.896117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Edmond, Terrass' Hotel",
+        "description": "Très bon restaurant avec un grand bar terrasse surplombant Paris et la tombe de Dalida",
+        "adresse": "12 Rue Joseph de Maistre, 75018 Paris",
+        "date": "2022-10-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333123,
+          48.886482
+        ]
+      }
+    }
+  ]
+}
