@@ -61,6 +61,15 @@ people:
     - title: instagram
       url: https://www.instagram.com/hononi1/?hl=fr-ca
 
+- name: Nicolas DUCLOS
+  pic: 9
+  position: Salarié en CDD
+  social:
+    - title: github
+      url: https://github.com/NicoDuclos
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolas-duclos-319511/
+
 people_anciens:
 - name: Mathurin PETIT
   pic: 1
