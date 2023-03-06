@@ -63,4 +63,8 @@ Logiciel web libre permettant de signer un PDF : [https://pdf.24eme.fr](https://
 
 [Voir les sources](https://github.com/24eme/signaturepdf)
 
+### HistoPad
 
+Mini application web permettant d'historiser des pads (etherpad) et les archiver dans un dépôt git 
+
+[Voir les sources](https://github.com/24eme/histopad)
