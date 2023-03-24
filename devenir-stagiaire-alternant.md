@@ -3,46 +3,19 @@ layout: defaultPage
 title: Devenir stagiaire ou alternant-e
 ---
 
-## Alternance developpement web
-
-``` ⛔ Les sessions de recrutement d'alternances sont closes.```  
-
 ## Stage
 
-Le 24ème recherche un-e stagiaire web qui pourra apprendre au sein de son équipe de développement.
+Le 24ème recherche un-e stagiaire web (principalement PHP) qui pourra apprendre avec d'autres collègues stagiaires au sein d'une équipe chargée de développer des logiciels libres et open source.
 
-En fonction de ses intérêts, le ou la candidate pourra s'impliquer dans les différentes missions réalisées au sein de l'entreprise :
+Connaissance et utilisation de GNU/Linux grandement conseillées.
 
- - Développement d'applications métiers
- - Administration système de serveurs sous Linux
- - Relation direct avec le client
- - Définition des besoins avec le client
- - Chiffrages
- - Tâches administratives
+Expérience de travail en groupe et connaissance du manifeste Agile est un plus.
 
-Une belle variété de logiciels métiers sont développés :
-
- - Dématérialisation de documents administratifs pour le monde viticole
- - Gestion de facturations : nos logiciels facturent plus de 35M€ par an
- - Gestion des adhérents/clients type CRM
- - Gestion de planification et de tournées pour des techniciens sur mobile
- - Indexation et recherche documentaire
-
-### Technologies utilisées :
-
- - GIT
- - PHP / Symfony
- - Base de données documentaire (CouchDB, MongoDB)
- - Debian
- - Shell
- - Ansible
- - Tests unitaires
- - HTML / CSS / JQuery
- - Python
+Durée minimale : 3 mois
 
 ### Poste à pourvoir :
 
- - Lieu : Paris dans le 9ème
+ - Lieu : Paris dans le 18ème
 
 ### Comment postuler :
 
@@ -58,3 +31,10 @@ La philosophie du 24ème :
  - Horizontalité du management : pas de manager ni de chef de projet
  - Transparence : les chiffres, comptes et décisions sont accessibles à tous
  - Agilité : le dialogue avec les clients est privilégié et l'auto-organisation des équipes de développement la règle
+
+
+## Alternance developpement web
+
+``` ⛔ Les sessions de recrutement d'alternances sont closes.```
+
+
