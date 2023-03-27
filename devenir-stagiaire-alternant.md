@@ -15,7 +15,7 @@ Durée minimale : 3 mois
 
 ### Poste à pourvoir :
 
- - Lieu : Paris dans le 18ème
+ - Lieu : Paris dans le 18ème (en présentiel)
 
 ### Comment postuler :
 
