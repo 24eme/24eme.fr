@@ -70,6 +70,15 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/nicolas-duclos-319511/
 
+- name: Denise BITCA
+  pic: 10
+  position: Salariée en CDI
+  social:
+    - title: github
+      url: https://github.com/denisebitca
+    - title: linkedin
+      url: https://www.linkedin.com/in/denisebitca
+
 people_anciens:
 - name: Mathurin PETIT
   pic: 1
