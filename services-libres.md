@@ -3,7 +3,7 @@ layout: defaultPage
 title: Services libres
 ---
 
-Nous avons déployer des outils libres pour le fonctionnement du 24ème que nous proposons gratuitement et librement à touste le monde .
+Nous avons déployer des outils libres pour le fonctionnement du 24ème que nous proposons gratuitement et librement.
 
 Les serveurs sont hebergés sur des dédibox chez Online localisé en France ou à Amsterdam et administrés par les salariés du 24ème et la société [Sysnove](https://www.sysnove.fr/).
 
