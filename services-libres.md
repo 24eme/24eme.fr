@@ -5,13 +5,13 @@ title: Services libres
 
 ## Services Libres
 
-Nous avons déployer des outils libres pour le fonctionnement du 24ème que nous proposons gratuitement et librement à tous le monde .
+Nous avons déployer des outils libres pour le fonctionnement du 24ème que nous proposons gratuitement et librement à touste le monde .
 
 Les serveurs sont hebergés sur des dédibox chez Online localisé en France ou à Amsterdam et administrés par les salariés du 24ème et la société [Sysnove](https://www.sysnove.fr/).
 
 ### Brigitte notre outils de Visioconférence (BigBlueButton)
 
-Brigitte est un service libre de visioconférence basé sur le logiciel [BigBlueButton](https://fr.wikipedia.org/wiki/BigBlueButton). Rien à installer, tout se passe dans votre navigateur. Il suffit de se créer un compte pour pouvoir l'utiliser, les inscriptions sont ouvertes à tous.
+Brigitte est un service libre de visioconférence basé sur le logiciel [BigBlueButton](https://fr.wikipedia.org/wiki/BigBlueButton). Rien à installer, tout se passe dans votre navigateur. Il suffit de se créer un compte pour pouvoir l'utiliser, les inscriptions sont ouvertes à touste.
 
 [Utiliser ce service](https://brigitte.24eme.fr)
 
