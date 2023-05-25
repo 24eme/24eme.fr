@@ -3,4 +3,5 @@ Gemfile.lock
 .sass-cache
 css/24emefonts/.fontcustom-manifest.json
 css/24emefonts/24eme-preview.html
-
+*~
+*.swp
