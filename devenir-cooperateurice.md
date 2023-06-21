@@ -21,7 +21,7 @@ La philosophie du 24ème :
 
 ### Le poste
 
-Le 24ème recherche une développeuse ou un développeur **web PHP** qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise.
+Le 24ème recherche une développeuse ou un développeur **web PHP** qui pourra s'intégrer dans son équipe de développement comme dans la vie de l'entreprise. 
 
 Une belle variété de logiciels métiers sont développés :
 
@@ -48,7 +48,7 @@ Nous travaillons quotidiennement avec les compétences suivantes :
  - En présentiel 
  - Lieu : Paris 
  - Disponibilité : Dès maintenant
- - Type de contrat : CDI
+ - Type de contrat : CDI (Pas de contrat d'alternance, profesionnalisation ou apprentissage)
  - Vacances : Libres
  - Rémunération : Selon les souhaits du candidat
 
@@ -56,3 +56,8 @@ Nous travaillons quotidiennement avec les compétences suivantes :
 
  - Par mail : [devenircooperateurice@24eme.fr](mailto:devenircooperateurice@24eme.fr)
  - Par github : en proposant ton ajout dans notre équipe via un pull request :  [L'équipe](https://github.com/24eme/24eme.fr/blob/master/_config.yml#L11)
+
+## Stages, alternance, professionnalisation et apprentissage
+
+Pour les candidatures concernant les stages, alternances, professionnalisations et apprentissages sont référencées sur [cette page](/devenir-stagiaire-alternant/)
+
