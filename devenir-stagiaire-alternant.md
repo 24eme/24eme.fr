@@ -5,6 +5,8 @@ title: Devenir stagiaire ou alternant-e
 
 ## Stage
 
+``` ⛔ Les sessions de recrutement de stagiaires sont closes pour 2023.```
+
 Le 24ème recherche un-e stagiaire web (principalement PHP) qui pourra apprendre avec d'autres collègues stagiaires au sein d'une équipe chargée de développer des logiciels libres et open source.
 
 Connaissance et utilisation de GNU/Linux grandement conseillées.
