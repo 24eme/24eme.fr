@@ -2,6 +2,11 @@
 layout: defaultPage
 title: Les voeux
 ---
+
+## 2023
+
+<a href="/2023/">Voir</a>
+
 ## 2022
 
 <a href="https://voeux.24eme.fr/2022/"><img src="/img/2022_affiche_brigitte.png" height="350" alt="Bonne année 2021" style="border: 0px"/><img src="/img/2022_affiche_patrick.png" height="350" alt="Bonne année 2022" style="border: 0px"/></a>
