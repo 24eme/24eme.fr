@@ -25,7 +25,7 @@ Logiciel de dématérialisation informatique des activités des interprofessions
 
 [Voir les sources](https://github.com/24eme/declarvins/)
 
-## OpenDataWine
+### OpenDataWine
 
 Interface de consultation et d'accessibilité aux données des délimitations parcellaires des AOC françaises
 
