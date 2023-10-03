@@ -3,6 +3,10 @@ layout: defaultPage
 title: Devenir stagiaire ou alternant-e
 ---
 
+## Alternance developpement web
+
+``` ⛔ Les sessions de recrutement 2023/2024 d'alternances sont closes.```
+
 ## Stage
 
 ``` ⛔ Les sessions de recrutement 2023/2024 de stagiaires sont closes.```
@@ -33,10 +37,5 @@ La philosophie du 24ème :
  - Horizontalité du management : pas de manager ni de chef de projet
  - Transparence : les chiffres, comptes et décisions sont accessibles à tous
  - Agilité : le dialogue avec les clients est privilégié et l'auto-organisation des équipes de développement la règle
-
-
-## Alternance developpement web
-
-``` ⛔ Les sessions de recrutement 2023/2024 d'alternances sont closes.```
 
 
