@@ -25,6 +25,12 @@ Logiciel de dématérialisation informatique des activités des interprofessions
 
 [Voir les sources](https://github.com/24eme/declarvins/)
 
+## OpenDataWine
+
+Interface de consultation et d'accessibilité aux données des délimitations parcellaires des AOC françaises
+
+[Voir les sources](https://github.com/24eme/opendatawine)
+
 ### Juricaf
 
 Moteur de recherche de jurisprudence francophone : [https://juricaf.org/](https://juricaf.org/)
