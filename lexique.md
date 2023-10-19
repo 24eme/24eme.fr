@@ -17,7 +17,7 @@ title: Lexique
 * **Chaptalisation** : Apport extérieur en sucre afin d'augmenter le degré d'alcool ([wikipedia](https://fr.wikipedia.org/wiki/Chaptalisation))
 * **CRD** : Capsule Représentative de Droit, capsule qui indique que les droits de consommations sur l'alcool ont été acquittés auprès de la Direction générale des douanes et droits indirects (DGDDI). ([wikipédia](https://fr.wikipedia.org/wiki/Capsule_CRD))
 * **DAE** : Document d'Accompagnement Electronique (document qui autorise le transport du vin)
-* **DV** :
+* **DV** : La plateforme déclarative des vins du Rhône, de Provence et du Sud Est (https://declaration.declarvins.net)
 * **EDI** : Electronic Data Exchance (échange automatique de données)
 * **ODG** : Organisme de Défense et de Gestion ([wikipédia](https://fr.wikipedia.org/wiki/Organisme_de_d%C3%A9fense_et_de_gestion)), dans le cadre des projets vins c'est un syndicat qui s'occupe de contrôler que le vin respecte le cahier des charges de son AOC.
 * **CVI** : Casier Viticole Informatisé ([wikipédia](https://fr.wikipedia.org/wiki/Casier_viticole_informatis%C3%A9)) Le casier contient les différents documents viticoles (DR, SV11, SV12, parcellaire, ...). Le numéro CVI est l'identifiant des établissements qui récoltent ou vinifient du raisin.
