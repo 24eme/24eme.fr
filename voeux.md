@@ -5,7 +5,7 @@ title: Les voeux
 
 ## 2023
 
-<a href="/2023/"><img src="/img/2023.jpg" width="350" height="250" alt="Bonne année 2023" style="border: 0px"/></a>
+<a href="/2023/"><img src="/img/2023.png" width="350" height="250" alt="Bonne année 2023" style="border: 0px"/></a>
 
 <a href="/2023/">Consulter le making off et la méthode de fabrication</a>
 
