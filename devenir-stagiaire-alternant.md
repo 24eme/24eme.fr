@@ -5,11 +5,11 @@ title: Devenir stagiaire ou alternant-e
 
 ## Alternance developpement web
 
-``` ⛔ Les sessions de recrutement 2023/2024 d'alternances sont closes.```
+``` ⛔ Pas de recrutement d'alternances possible pour le moment.```
 
 ## Stage
 
-``` ⛔ Les sessions de recrutement 2023/2024 de stagiaires sont closes.```
+``` ⛔ Les sessions de recrutement de stagiaires sont closes.```
 
 Le 24ème recherche un-e stagiaire web (principalement PHP) qui pourra apprendre avec d'autres collègues stagiaires au sein d'une équipe chargée de développer des logiciels libres et open source.
 
