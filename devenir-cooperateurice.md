@@ -45,7 +45,9 @@ Nous travaillons quotidiennement avec les compétences suivantes :
  - Javascript
  - HTML / CSS
 
-### Poste à pourvoir (pas de poste pour l'instant) :
+### Poste à pourvoir :
+
+``` ⛔ Pas de poste ouvert pour le moment.```
 
  - En présentiel 
  - Lieu : Paris 
