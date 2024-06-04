@@ -50,25 +50,12 @@ people:
     - title: github
       url: https://github.com/gpoma
 
-- name: Honorine MARIE-CHRISTY
-  pic: 7
-  position: Alternante (développeuse fullstack)
+- name: Tanguy LE FAUCHEUR
+  pic: 10
+  position: Associé
   social:
     - title: github
-      url: https://github.com/Honorine-MC
-    - title: linkedin
-      url: https://fr.linkedin.com/in/honorine-marie-christy
-    - title: instagram
-      url: https://www.instagram.com/hononi1/?hl=fr-ca
-
-- name: Nicolas DUCLOS
-  pic: 9
-  position: Salarié en CDD
-  social:
-    - title: github
-      url: https://github.com/NicoDuclos
-    - title: linkedin
-      url: https://www.linkedin.com/in/nicolas-duclos-319511/
+      url: https://github.com/tale-fau
 
 people_anciens:
 - name: Mathurin PETIT
@@ -99,6 +86,24 @@ people_anciens:
       url: https://github.com/Mngom-ai
     - title: linkedin
       url: https://fr.linkedin.com/in/mamediarrangom
+- name: Honorine MARIE-CHRISTY
+  pic: 7
+  position: Alternante (développeuse fullstack)
+  social:
+    - title: github
+      url: https://github.com/Honorine-MC
+    - title: linkedin
+      url: https://fr.linkedin.com/in/honorine-marie-christy
+    - title: instagram
+      url: https://www.instagram.com/hononi1/?hl=fr-ca
+- name: Nicolas DUCLOS
+  pic: 9
+  position: Salarié en CDD
+  social:
+    - title: github
+      url: https://github.com/NicoDuclos
+    - title: linkedin
+      url: https://www.linkedin.com/in/nicolas-duclos-319511/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
