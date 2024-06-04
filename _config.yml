@@ -57,6 +57,13 @@ people:
     - title: github
       url: https://github.com/tale-fau
 
+- name: Charlène HOUNSOU-GUÉDÉ
+  pic: 11
+  position: Associée
+  social:
+    - title: github
+      url: https://github.com/chachathecool
+
 people_anciens:
 - name: Mathurin PETIT
   pic: 1
