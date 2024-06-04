@@ -27,7 +27,7 @@ people:
   social:
     - title: github
       url: https://github.com/wincelau
-    - title: mastodon
+    - title: hashtag
       url: https://piaille.fr/@winy
     - title: linkedin
       url: https://www.linkedin.com/in/vincent-laurent-4966694b/
@@ -111,7 +111,7 @@ social:
     url: http://github.com/24eme
   - title: twitter
     url: http://twitter.com/24emeSCOP
-  - title: mastodon
+  - title: hashtag
     url: https://mastodon.libre-entreprise.com/@24eme
   - title: linkedin
     url: https://www.linkedin.com/company/9437998
