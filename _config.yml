@@ -57,6 +57,13 @@ people:
     - title: github
       url: https://github.com/tale-fau
 
+- name: Charlène HOUNSOU-GUÉDÉ
+  pic: 11
+  position: Associée
+  social:
+    - title: github
+      url: https://github.com/chachathecool
+
 people_anciens:
 - name: Mathurin PETIT
   pic: 1
@@ -115,6 +122,8 @@ social:
     url: https://mastodon.libre-entreprise.com/@24eme
   - title: linkedin
     url: https://www.linkedin.com/company/9437998
+  - title: comments-o
+    url: https://kiwiirc.com/nextclient/irc.libera.chat/#24eme
 
 # Postal address (add as many lines as necessary)
 address:

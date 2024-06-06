@@ -944,6 +944,102 @@
           48.886482
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Angelina Paris",
+        "description": "Ambiance chic et kitsch ce qui rend l'expérience fun. Petit-déjeuner satisfaisant mais pas la folie non plus.",
+        "adresse": "226 Rue de Rivoli, 75001 Paris",
+        "date": "2024-01-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3284104,
+          48.8650778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ibrik Café",
+        "description": "Le gâteau à la pistache est excellent!",
+        "adresse": "43 Rue Laffitte, 75009 Paris",
+        "date": "2024-02-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3383916,
+          48.8752825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Café Tranquille",
+        "description": "Petit café sans prétention. Le personnel est très sympa",
+        "adresse": "147 Rue du Faubourg Saint-Denis, 75010 Paris",
+        "date": "2024-03-12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3563976,
+          48.8782765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Le POPUP du Label",
+        "description": "Bonne ambiance et bons plats mais peut mieux faire pour les desserts.",
+        "adresse": "14 Rue Abel, 75012 Paris",
+        "date": "2024-04-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3756380,
+          48.8475082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Lab",
+        "description": "Un bureau à côté de notre bureau, ambiance conviviale",
+        "adresse": "48 Rue René Clair, 75018 Paris",
+        "date": "2024-05-13"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3542595,
+          48.8940642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Césure",
+        "description": " Tier lieu dans l'enceinte de l'ancienne université Sorbonne-Nouvelle. Tables à l'extérieur.",
+        "adresse": "13 Rue Santeuil, 75005 Paris",
+        "date": "2024-06-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.35371,
+          48.83969
+        ]
+      }
     }
   ]
 }
