@@ -8,5 +8,5 @@ title: Playlist
 Les musiques ou les <a href="https://fr.wikipedia.org/wiki/Ver_d%27oreille">vers d'oreille</a> qui tournent dans les esprits de l'équipe pendant qu'iels sont en train de travailler :
 
 <iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY">
+src="https://www.youtube.com/playlist?list=PLz9dZw5GgvJhoUp29AJE8EDokgTVVZkne">
 </iframe>
