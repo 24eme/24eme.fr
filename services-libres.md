@@ -26,3 +26,10 @@ Jeancloude est un service libre d'hébergement et partage de fichiers, de calend
 Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages, compresser et d'éditer les métadonnées d'un ou plusieurs PDF.
 
 [Utiliser ce service](https://pdf.24eme.fr/)
+
+## Nutri.Vin
+
+Une plateforme open source et communautaire de génération de QR Code pour la déclaration nutritionnelle des vins. Son utilisation est gratuite pour les organismes viticoles connectés à [viticonnect.net](https://viticonnect.net/).
+
+
+[Utiliser ce service](https://nutri.vin/)
