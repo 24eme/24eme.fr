@@ -21,8 +21,9 @@ Afin d'offrir de la transparence sur l'activité du 24ème, nous mettons à disp
 
 La liste des associés salariés de la société  :
 
-* Vincent LAURENT - 33,33% - 576€
-* Jean-Baptiste LE METAYER - 33,33% - 576€
-* Gabriel POMA - 33,33% - 576€
+* Vincent LAURENT - 25% - 576€
+* Jean-Baptiste LE METAYER - 25% - 576€
+* Gabriel POMA - 25% - 576€
+* Tangui MORLIER - 25% - 576€
 
 Les markdown de nos documents, nos démarches administratives ainsi que nos modèles de contrats sont disponibles dans notre [dépôt git administratif](https://github.com/24eme/administratif/blob/master/README.md).
