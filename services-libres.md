@@ -19,8 +19,10 @@ Jeancloude est un service libre d'hébergement et partage de fichiers, de calend
 
 [Utiliser ce service](https://jeancloude.24eme.fr/)
 
-## Signature PDF
+## Signature PDF Libre
 
-SignaturePDF est un service libre en ligne permettant de signer / parapher / tamponner un pdf tout seul ou à plusieurs. Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages et éditer les métadonnées d'un PDF.
+<a href="https://github.com/24eme/signaturepdf">Signature PDF Libre</a> est un service libre en ligne permettant de signer, parapher, tamponner et remplire un pdf tout seul ou à plusieurs. 
+
+Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages, compresser et d'éditer les métadonnées d'un ou plusieurs PDF.
 
 [Utiliser ce service](https://pdf.24eme.fr/)
