@@ -7,7 +7,7 @@ Nous avons déployé des outils libres pour le fonctionnement du 24ème que nous
 
 Les serveurs sont hebergés sur des dédibox chez Online, localisés en France ou à Amsterdam et administrés par les salariés du 24ème et la société [Sysnove](https://www.sysnove.fr/).
 
-## Brigitte notre outil de Visioconférence (BigBlueButton) <img alt="7-day uptime 97.76%" src="https://camo.githubusercontent.com/20edcabe011048190a0e92f4c50e7aa51a395f75be890c882c82a2db0d51f9df/68747470733a2f2f696d672e736869656c64732e696f2f656e64706f696e743f75726c3d68747470732533412532462532467261772e67697468756275736572636f6e74656e742e636f6d2532463234656d6525324675707074696d652532464845414425324661706925324662726967697474652d3234656d652d6672253246757074696d652d7765656b2e6a736f6e" data-canonical-src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F24eme%2Fupptime%2FHEAD%2Fapi%2Fbrigitte-24eme-fr%2Fuptime-week.json" style="max-width: 100%;">
+## Brigitte notre outil de Visioconférence (BigBlueButton)
 
 Brigitte est un service libre de visioconférence basé sur le logiciel [BigBlueButton](https://fr.wikipedia.org/wiki/BigBlueButton). Il n'y a rien à installer, tout se passe dans votre navigateur. Il suffit de se créer un compte pour pouvoir l'utiliser, les inscriptions étant ouvertes à touste.
 
