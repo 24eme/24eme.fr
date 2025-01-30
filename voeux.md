@@ -3,6 +3,18 @@ layout: defaultPage
 title: Les voeux
 ---
 
+## 2025
+
+<a href="/2025/"><img src="/img/2025.jpg" width="350" alt="Bonne année 2025" style="border: 0px"/></a>
+
+<a href="/2025/">Consulter le making off et la méthode de fabrication</a>
+
+## 2023
+
+<a href="/2024/"><img src="/img/2024.jpg" width="350" alt="Bonne année 2024" style="border: 0px"/></a>
+
+<a href="/2024/">Consulter le making off et la méthode de fabrication</a>
+
 ## 2023
 
 <a href="/2023/"><img src="/img/2023.jpg" width="350" alt="Bonne année 2023" style="border: 0px"/></a>
