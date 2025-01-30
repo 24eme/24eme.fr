@@ -116,8 +116,6 @@ people_anciens:
 social:
   - title: github
     url: http://github.com/24eme
-  - title: twitter
-    url: http://twitter.com/24emeSCOP
   - title: hashtag
     url: https://mastodon.libre-entreprise.com/@24eme
   - title: linkedin
