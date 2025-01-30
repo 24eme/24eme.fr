@@ -9,11 +9,11 @@ title: Les voeux
 
 <a href="/2025/">Consulter le making off et la méthode de fabrication</a>
 
-## 2023
+## 2024
 
 <a href="/2024/"><img src="/img/2024.jpg" width="350" alt="Bonne année 2024" style="border: 0px"/></a>
 
-<a href="/2024/">Consulter le making off et la méthode de fabrication</a>
+<a href="/2024/">Consulter le making of et la méthode de fabrication</a>
 
 ## 2023
 
