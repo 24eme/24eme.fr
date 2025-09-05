@@ -1040,6 +1040,198 @@
           48.83969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Européen",
+        "description": "La langouste n'est pas top",
+        "adresse": "21 bis boulevard Diderot, 75012 Paris",
+        "date": "2024-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3726478,
+          48.8459184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanted Paris",
+        "description": "",
+        "adresse": "46Bis Rue de Meaux, 75019 Paris",
+        "date": "2024-09-09"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.37372,
+          48.8815335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Désirée Café Cantine",
+        "description": "Cadre fleuri",
+        "adresse": "96 Rue de Meaux, 75019 Paris",
+        "date": "2024-10-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3799642,
+          48.884973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Balou Paris 10",
+        "description": "Ambiance mausade le midi. Graaande TV à l'intérieur.",
+        "adresse": "40 Rue Louis Blanc, 75010 Paris",
+        "date": "2024-11-04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3641886,
+          48.8817402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BLOOM HOUSE",
+        "description": "Serveur pas aimable. À le sosie de ",
+        "adresse": "23 R. du Château Landon, 75010 Paris",
+        "date": "2024-12-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3627778,
+          48.8816398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boom Boom Villette",
+        "description": "I want you in my room ~",
+        "adresse": "30 Av. Corentin Cariou, 75019 Paris",
+        "date": "2025-01-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3871269,
+          48.8966098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantalou / Au deux amis",
+        "description": "Les madeleines et le couscous sont délicieux",
+        "adresse": "50 Rue de Meaux, 75019 Paris",
+        "date": "2025-02-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3871269,
+          48.8966098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hang'art",
+        "description": "Convivial",
+        "adresse": "61-63 Quai de la Seine, 75019 Paris",
+        "date": "2025-03-10"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3761409,
+          48.8877496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaskad Café",
+        "description": "Serveurs obsequieux, terrasse sans soleil. Burger secret OK-tier (pourquoi secret ?)",
+        "adresse": "2 Pl. Armand Carrel, 75019 Paris",
+        "date": "2025-04-07"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3829227,
+          48.882706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The place to",
+        "description": "Cadre joli. Tables rondes pour la convivialité.",
+        "adresse": "131 Rue du Faubourg Saint-Martin, 75010 Paris",
+        "date": "2025-05-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.359047,
+          48.8758839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "L'Hirondelle",
+        "description": "Fautes sur la devanture devanture 😱",
+        "adresse": "42 Bd Henri IV, 75004 Paris",
+        "date": "2025-06-03"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3666195,
+          48.8525085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chez Ernest",
+        "description": "Parfait pour vos goûters d'anniversaire ! Bonne carte des vins.",
+        "adresse": "4 Imp. de Joinville, 75019 Paris",
+        "date": "2025-07-08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3776735,
+          48.8911518
+        ]
+      }
     }
   ]
 }
