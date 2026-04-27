@@ -12,6 +12,7 @@ title: Lexique
 * **DAIDS** : Déclaration Annuel d'Inventaire / Déclaration de stock (la DAI contient les explications de différence de stock entre la DRM de juillet et le stock de la DS)
 * **DPLC** : Dépassement du Plafond Limite de Classement (le volume correpondant au dépassement du rendement)
 * **DREV** : Déclaration de revendication
+* **DRaP** : Déclaration de Renonciation à Produire
 * **SV12** : Déclaration de production des négociants (les apports en raisin et mout de leurs clients récoltants)
 * **SV11** : déclaration de production des caves coopératives (apport des coopérateurs à la cave)
 * **Chaptalisation** : Apport extérieur en sucre afin d'augmenter le degré d'alcool ([wikipedia](https://fr.wikipedia.org/wiki/Chaptalisation))
