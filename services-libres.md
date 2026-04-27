@@ -11,16 +11,25 @@ Les serveurs sont hebergés sur des dédibox chez Online, localisés en France o
 
 Brigitte est un service libre de visioconférence basé sur le logiciel [BigBlueButton](https://fr.wikipedia.org/wiki/BigBlueButton). Il n'y a rien à installer, tout se passe dans votre navigateur. Il suffit de se créer un compte pour pouvoir l'utiliser, les inscriptions étant ouvertes à touste.
 
-[Utiliser ce service](https://brigitte.24eme.fr)
+[> Utiliser ce service](https://brigitte.24eme.fr)
 
 ## Jeancloude notre outil de partage de fichiers (Nextcloud)
 
 Jeancloude est un service libre d'hébergement et partage de fichiers, de calendrier et de contacts basé sur le logiciel [Nextcloud](https://fr.wikipedia.org/wiki/Nextcloud). L'utilisation de ce service nécessite une inscription qui s'effectue sur demande uniquement.
 
-[Utiliser ce service](https://jeancloude.24eme.fr/)
+[> Utiliser ce service](https://jeancloude.24eme.fr/)
 
-## Signature PDF
+## Signature PDF Libre
 
-SignaturePDF est un service libre en ligne permettant de signer / parapher / tamponner un pdf tout seul ou à plusieurs. Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages et éditer les métadonnées d'un PDF.
+<a href="https://github.com/24eme/signaturepdf">Signature PDF Libre</a> est un service libre en ligne permettant de signer, parapher, tamponner et remplire un pdf tout seul ou à plusieurs. 
 
-[Utiliser ce service](https://pdf.24eme.fr/)
+Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages, compresser et d'éditer les métadonnées d'un ou plusieurs PDF.
+
+[> Utiliser ce service](https://pdf.24eme.fr/)
+
+## Nutri.Vin
+
+Une plateforme open source et communautaire de génération de QR Code pour la déclaration nutritionnelle des vins. Son utilisation est gratuite pour les organismes viticoles connectés à [viticonnect.net](https://viticonnect.net/).
+
+
+[> Utiliser ce service](https://nutri.vin/)

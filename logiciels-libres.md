@@ -3,9 +3,13 @@ layout: defaultPage
 title: Logiciels libres
 ---
 
-## Logiciels libres
+# Les logiciels libres développés par le 24ème
 
 Tout le code que nous produisons et tous les logiciels que nous développons sont sous [licence libre](https://fr.wikipedia.org/wiki/Licence_libre) [AGPLV3](https://www.gnu.org/licenses/agpl-3.0.fr.html).
+
+Cette annuaire de logiciels est regroupé par communauté de métiers et usages.
+
+## Viticole
 
 ### GIILDA
 
@@ -31,11 +35,21 @@ Interface de consultation et d'accessibilité aux données des délimitations pa
 
 [Voir les sources](https://github.com/24eme/opendatawine)
 
+### Nutri.Vin
+
+Une plateforme open source et communautaire de génération de QR Code pour la déclaration nutritionnelle des vins. Son utilisation est gratuite pour les organismes viticoles connectés à [viticonnect.net](https://viticonnect.net/).
+
+[Voir les sources](https://github.com/24eme/nutri.vin)
+
+## Juridique
+
 ### Juricaf
 
 Moteur de recherche de jurisprudence francophone : [https://juricaf.org/](https://juricaf.org/)
 
 [Voir les sources](https://github.com/24eme/openodg/)
+
+## Sanitation
 
 ### Aurouze
 
@@ -43,17 +57,15 @@ Logiciel de gestion des activités d'une entreprise de sanitation
 
 [Voir les sources](https://github.com/24eme/aurouze/)
 
+## Associatif
+
 ### Plus sans ascenseur
 
 Projet de signalement communautaire
 
 [Voir les sources](https://github.com/24eme/plussansascenseur)
 
-### Commune mesure
-
-Projet de dataviz des impacts des lieux hybrides français.
-
-[Voir les sources](https://github.com/24eme/Commune-Mesure)
+## Outils interne
 
 ### Mon Activité
 
@@ -65,7 +77,9 @@ Utilisé au 24ème pour offrir de la visibilité aux clients sur l'activité que
 
 ### Signature de PDF
 
-Logiciel web libre permettant de signer un PDF : [https://pdf.24eme.fr](https://pdf.24eme.fr)
+[Signature PDF Libre](https://github.com/24eme/signaturepdf) est un service libre en ligne permettant de signer, parapher, tamponner et remplire un pdf tout seul ou à plusieurs. 
+
+Il permet également de fusionner, trier, pivoter, supprimer, extraire des pages, compresser et d'éditer les métadonnées d'un ou plusieurs PDF.
 
 [Voir les sources](https://github.com/24eme/signaturepdf)
 

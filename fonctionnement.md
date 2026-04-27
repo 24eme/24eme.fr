@@ -11,6 +11,7 @@ La volonté de fonctionnement du 24ème étant l'autonomie, l'autogestion et le 
 * [Vacances libres (à documenter)](/)
 * [Salaire libres (à documenter)](/)
 * [Faire les paies](https://github.com/24eme/administratif/blob/master/docs/faire_les_paies.md)
+* [Faire la facturation](https://github.com/24eme/administratif/blob/master/docs/faire_la_facturation.md)
 * [Tactical meeting](/tacticals)
 * [Liste des tâches administratives et comptables](https://github.com/24eme/administratif/blob/master/docs/todo_administratif_compta.md)
 * [Sortie d'un salarié](https://github.com/24eme/administratif/blob/master/docs/depart_salarie.md)

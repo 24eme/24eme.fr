@@ -116,14 +116,12 @@ people_anciens:
 social:
   - title: github
     url: http://github.com/24eme
-  - title: twitter
-    url: http://twitter.com/24emeSCOP
   - title: hashtag
     url: https://mastodon.libre-entreprise.com/@24eme
   - title: linkedin
     url: https://www.linkedin.com/company/9437998
   - title: comments-o
-    url: https://kiwiirc.com/nextclient/irc.libera.chat/#24eme
+    url: https://web.libera.chat/#24eme
 
 # Postal address (add as many lines as necessary)
 address:
